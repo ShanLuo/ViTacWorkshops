@@ -5,7 +5,7 @@ layout: default
 
 # ICRA 2023 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+// {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 This is the official website for "ViTac 2023: Blending Virtual and Real Visuo-Tactile Perception".
 
