@@ -46,7 +46,7 @@ url: https://shanluo.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /vitacworkshops
+baseurl: /ViTacWorkshops
 
 
 ##########
