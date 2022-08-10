@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# ICRA 2023 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception
 
 {% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+This is the official website for "ViTac 2023: Blending Virtual and Real Visuo-Tactile Perception".
 
 *Add your workshop abstract here!*
 
