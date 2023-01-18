@@ -38,7 +38,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
 ●  	Submission Deadline: 15th March, 2023 <br>
 ●  	Notification of acceptance: 30th March, 2023 <br>
 ●  	Camera-ready deadline: 15th April, 2023 <br>
-●  	Workshop day: 30th May or 5th June 2023 <br>
+●  	Workshop day: 2nd June 2023 <br>
 
 **Topics of Interest:** <br>
 ●  	Development of tactile sensors for robot tasks <br>
