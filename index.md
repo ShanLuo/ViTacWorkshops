@@ -35,9 +35,9 @@ The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop Y
 
 **Key dates** <br>
 Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. Submissions must be sent in pdf, following the IEEE conference style (two-columns), to: shan.luo@kcl.ac.uk, indicating [ICRA 2023 Workshop] in the email subject. <br>
-●  	Submission Deadline: 15th March, 2023 <br>
-●  	Notification of acceptance: 30th March, 2023 <br>
-●  	Camera-ready deadline: 15th April, 2023 <br>
+●  	Submission Deadline: <s> 15th March, 2023 </s> <br> 30th March, 2023
+●  	Notification of acceptance: 10th April, 2023 <br>
+●  	Camera-ready deadline: 20th April, 2023 <br>
 ●  	Workshop day: 2nd June 2023 <br>
 
 **Topics of Interest:** <br>
