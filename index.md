@@ -14,7 +14,7 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 **Location:** ExCeL London (room tbd) <br>
 **Time:** Friday 2nd June 2023 <br>
 
-<FONT COLOR="#ff0000">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) in the IEEE Transactions on Robotics.</FONT>
+<FONT COLOR="#ff0000">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) that we are organising in the IEEE Transactions on Robotics.</FONT>
 
 The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop YouTube channel](https://www.youtube.com/@ICRAViTacWorkshop/playlists), a legacy of ICRA 2020 and 2021 ViTac workshops, for recordings of the ViTac workshops.
 
