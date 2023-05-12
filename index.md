@@ -16,7 +16,7 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 
 
 
-**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) that we are organising in the IEEE Transactions on Robotics.
+<span style="color:red">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) that we are organising in the IEEE Transactions on Robotics.</span> <br>
 
 The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop YouTube channel](https://www.youtube.com/@ICRAViTacWorkshop/playlists), a legacy of ICRA 2020 and 2021 ViTac workshops, for recordings of the ViTac workshops.
 
