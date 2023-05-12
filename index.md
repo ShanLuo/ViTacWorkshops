@@ -14,6 +14,8 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 **Location:** ExCeL London (room tbd) <br>
 **Time:** Friday 2nd June 2023 <br>
 
+<FONT COLOR="#ff0000">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) in the IEEE Transactions on Robotics.</FONT>
+
 The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop YouTube channel](https://www.youtube.com/@ICRAViTacWorkshop/playlists), a legacy of ICRA 2020 and 2021 ViTac workshops, for recordings of the ViTac workshops.
 
 **Organisers:** <br>
@@ -60,7 +62,7 @@ Session 1: Development of touch sensors <br>
 10:10	Poster presenters - 1	Lightning poster presentations (2mins each) <br>
 10:30	Coffee break, posters and demos <br>
 
-Session 2: Simulations of tactile sensors 
+Session 2: Simulations of tactile sensors <br>
 11:30	Shan Luo:	Session Intro & Talk “Visuo-Tactile Perception in the Real and Virtual Worlds” <br>
 11:50	Michael Yu Wang: 	Invited talk “Touch and Sense for Learning Dexterous Manipulation” <br>
 12:10	Poster presenters - 2	Lightning poster presentations (2mins each) <br>
