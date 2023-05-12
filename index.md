@@ -50,6 +50,36 @@ Posters and live demonstrations will be selected from a call for extended abstra
 ●  	Bio-inspired approaches and cognitive architectures for the visuo-tactile perception <br>
 ●   Computational methods for processing vision and touch data in robot learning <br>
 
+**Program (may subject to minor changes)** <br>
+09:00	Organizers	Welcome <br>
+
+Session 1: Development of touch sensors <br>
+09:20	Gordon Cheng: Session Intro <br>
+09:30	Ravinder Dahiya:	Invited talk “Electronic skin with printed temperature and light detection sensors” <br>
+09:50	Lucia Beccai:	Invited talk “Soft sensing approaches towards embodied perception in bioinspired soft gripping” <br>
+10:10	Poster presenters - 1	Lightning poster presentations (2mins each) <br>
+10:30	Coffee break, posters and demos <br>
+
+Session 2: Simulations of tactile sensors 
+11:30	Shan Luo:	Session Intro & Talk “Visuo-Tactile Perception in the Real and Virtual Worlds” <br>
+11:50	Michael Yu Wang: 	Invited talk “Touch and Sense for Learning Dexterous Manipulation” <br>
+12:10	Poster presenters - 2	Lightning poster presentations (2mins each) <br>
+12:30	Lunch break, posters and demos <br>
+
+Session 3: Sim2Real learning for visuo-tactile perception <br>
+14:00	Nathan Lepora:	Session Intro & Talk “Progress in real, simulated and sim2real optical tactile sensing” <br>
+14:20	Katherine Kuchenbecker:	Invited talk “Haptic Intelligence for HRI” <br>
+14:40	Roberto Calandra:	Invited talk “What's next for Vision-based Tactile Sensors?” <br>
+15:00	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” <br>
+15:20	Rich Walker:	Talk & demo from Shadow Robot <br>
+15:40	Coffee break, posters and demos <br>
+
+Session 4	Challenges and Outlook <br>
+16:30	Wenzhen Yuan:	Session Intro & Talk “Bridging simulated and the real-world tactile sensors: challenges and outlook” <br>
+16:50	Dieter Fox: 	Invited talk “Sim2Real for Contact Rich Tasks” <br>
+17:10	All speakers	Group discussion <br>
+18:00	Finish <br>
+
 We thank the support from the following IEEE RAS Technical Committees: <br>
 -   Haptics <br>
 -   Cognitive Robotics <br>
