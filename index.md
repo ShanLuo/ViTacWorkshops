@@ -11,8 +11,10 @@ This is the official website for "ViTac 2023: Blending Virtual and Real Visuo-Ta
 
 Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA conferences, after ICRA 2019, 2020 and 2021 ViTac Workshops, and will be the first time for us to have a hybrid ViTac workshop. The past years have witnessed the fast development of simulation models of optical tactile sensors, Sim2Real and Sim2Real2Sim learning for visuo-tactile perception. It will be timely to bring together the experts and young researchers in the field to discuss how to blend virtual and real visuo-tactile perception. This proposed full-day workshop will cover the recent advancements in the area of visuo-tactile sensing and perception, with the aim to bridge the gap between the simulations and real world for optical tactile sensing and robot perception with vision and tactile sensing. It will further enhance active collaboration and address challenges for this important topic and applications.
 
-**Location:** ExCeL London (room tbd) <br>
-**Time:** Friday 2nd June 2023 <br>
+**Time:**  9:00-18:00 (London time) Friday 2nd June 2023 (access to the room starts from 8:00)
+**Location:** ICC Capital Suite 6, xCeL` London, 1 Western Gateway, London E16 1XL
+
+
 
 <FONT COLOR="#ff0000">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) that we are organising in the IEEE Transactions on Robotics.</FONT>
 
