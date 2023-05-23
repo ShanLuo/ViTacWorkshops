@@ -74,7 +74,7 @@ Session 3: Sim2Real learning for visuo-tactile perception <br>
 14:00	Nathan Lepora:	Session Intro & Talk “Progress in real, simulated and sim2real optical tactile sensing” <br>
 14:20	Katherine Kuchenbecker:	Invited talk “Haptic Intelligence for HRI” <br>
 14:40	Roberto Calandra:	Invited talk “What's next for Vision-based Tactile Sensors?” <br>
-15:00	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” <br>
+15:00	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” Abstract: Camera based tactile sensors such as GelSight are becoming increasingly popular. The classic boxy design is limiting, especially when integrating the sensor into a gripper intended for grasping and manipulation. I will describe a variety of recent progress, including hemispherical and ellipsoidal sensors, finger-like sensors, fin-ray effect sensors, roller sensors, and articulated sensors. These new designs allow high resolution sensing of geometry and force, and in some cases also capture proprioceptive information. <br>
 15:20	Rich Walker:	Talk & demo from Shadow Robot <br>
 15:40	Coffee break, posters and demos <br>
 
