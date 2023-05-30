@@ -55,34 +55,49 @@ Posters and live demonstrations will be selected from a call for extended abstra
 ●   Computational methods for processing vision and touch data in robot learning <br>
 
 **Program (may subject to minor changes)** <br>
-09:00	Organizers	Welcome <br>
+**09:00**	Organizers	Welcome <br>
 
-Session 1: Development of touch sensors <br>
-09:20	Gordon Cheng: Session Intro <br>
-09:30	Ravinder Dahiya:	Invited talk “Electronic skin with printed temperature and light detection sensors” <br>
-09:50	Lucia Beccai:	Invited talk “Soft sensing approaches towards embodied perception in bioinspired soft gripping” <br>
-10:10	Poster presenters - 1	Lightning poster presentations (2mins each) <br>
-10:30	Coffee break, posters and demos <br>
+**Session 1:** Development of touch sensors <br>
+**09:20**	Gordon Cheng: Session Intro <br>
+**09:30**	Ravinder Dahiya:	Invited talk “Electronic skin with printed temperature and light detection sensors” <br>
+**09:50**	Lucia Beccai:	Invited talk “Soft sensing approaches towards embodied perception in bioinspired soft gripping” <br>
+**10:10**	Poster presenters - 1	Lightning poster presentations (2mins each) <br>
+      Poster 1: Eric T. Chang, Peter Ballentine, Ioannis Kymissis, Matei Ciocarlie. <em> Towards Development of a Signal-Dense Multimodal Tactile Finger </em> [[PDF]](content/ViTac2023_Paper_01.pdf) <br>
+      Poster 2: Max Yang, Yijiong Lin, Alex Church, John Lloyd, Dandan Zhang, David A.W. Barton, Nathan F. Lepora. <em> Generalizable and Robust Tactile Pushing using Sim-to-Real Deep Reinforcement Learning </em> [[PDF]](content/ViTac2023_Paper_02.pdf) <br>
+      Poster 3: Saekwang Nam, Loong Yi Lee, Max Yang, Naoki Shitanda, Jonathan Rossiter and Nathan Lepora. <em> Vision and Tactile Pose Identification for Picking a Target without Collision </em> [[PDF]](content/ViTac2023_Paper_03.pdf) <br>
+      Poster 4: Christopher J. Ford, Haoran Li, John Lloyd, Manuel G. Catalano, Matteo Bianchi, Efi Psomopoulou, Nathan F. Lepora. <em> Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks </em> [[PDF]](content/ViTac2023_Paper_04.pdf) <br>
+      Poster 5: Xingshuo Jing, Yongqiang Zhao, Jiaqi Jiang, Boyi Duan, Kun Qian, Shan Luo. <em> Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Manipulation Skills </em> [[PDF]](content/ViTac2023_Paper_05.pdf) <br>
+      Poster 6: Mauro Comi, Alex Church, Kejie Li, Laurence Aitchison, Nathan F. Lepora. <em> Implicit Neural Representation for 3D Shape Reconstruction Using Vision-Based Tactile Sensing </em> [[PDF]](content/ViTac2023_Paper_06.pdf) <br>
+      Poster 7: Julio Castano-Amoros and Pablo Gil. <em> Rotational Slippage Prediction from Segmentation of Tactile Images </em> [[PDF]](content/ViTac2023_Paper_07.pdf) <br>
+**10:30**	Coffee break, posters and demos <br>
 
-Session 2: Simulations of tactile sensors <br>
-11:30	Shan Luo:	Session Intro & Talk “Visuo-Tactile Perception in the Real and Virtual Worlds” <br>
-11:50	Michael Yu Wang: 	Invited talk “Touch and Sense for Learning Dexterous Manipulation” <br>
-12:10	Poster presenters - 2	Lightning poster presentations (2mins each) <br>
-12:30	Lunch break, posters and demos <br>
+**Session 2:** Simulations of tactile sensors <br>
+**11:30**	Shan Luo:	Session Intro & Talk “Visuo-Tactile Perception in the Real and Virtual Worlds” <br>
+**11:50**	Michael Yu Wang: 	Invited talk “Touch and Sense for Learning Dexterous Manipulation” <br>
+**12:10**	Poster presenters - 2	Lightning poster presentations (2mins each) <br>
+      Poster 8: Zixi Chen, Shixin Zhang, Yuhao Sun, Shan Luo, Fuchun Sun, and Bin Fang. <em> Plasticine Manipulation Simulation with Optical Tactile Sensing </em> [[PDF]](content/ViTac2023_Paper_08.pdf) <br>
+      Poster 9: Yijiong Lin, Mauro Comi, Alex Church, Dandan Zhang, Nathan F. Lepora. <em> Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control </em> [[PDF]](content/ViTac2023_Paper_09.pdf) <br>
+      Poster 10: Daniel Gomes and Paolo Paoletti and Shan Luo. <em> Simulation of Curved GelSight Sensors for Sim2Real Learning </em> [[PDF]](content/ViTac2023_Paper_10.pdf) <br>
+      Poster 11: Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. <em> Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation </em> [[PDF]](content/ViTac2023_Paper_11.pdf) <br>
+      Poster 12: Jiaqi Jiang, Guanqun Cao, Aaron Butterworth, Thanh-Toan Do, and Shan Luo. <em> Vision-Guided Tactile Poking for Transparent Object Grasping </em> [[PDF]](content/ViTac2023_Paper_12.pdf) <br>
+      Poster 13: Abu Bakar Dawood, Brice Denoun, and Kaspar Althoefer. <em> Optical Tomography-based Soft Sensor Skin </em> [[PDF]](content/ViTac2023_Paper_13.pdf) <br>
+      Poster 14: Carolina Higuera, Byron Boots, and Mustafa Mukadam. <em> Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models </em> [[PDF]](content/ViTac2023_Paper_14.pdf) <br>
+      
+**12:30**	Lunch break, posters and demos <br>
 
-Session 3: Sim2Real learning for visuo-tactile perception <br>
-14:00	Nathan Lepora:	Session Intro & Talk “Progress in real, simulated and sim2real optical tactile sensing” <br>
-14:20	Katherine Kuchenbecker:	Invited talk “Haptic Intelligence for HRI” <br>
-14:40	Roberto Calandra:	Invited talk “What's next for Vision-based Tactile Sensors?” <br>
-15:00	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” Abstract: Camera based tactile sensors such as GelSight are becoming increasingly popular. The classic boxy design is limiting, especially when integrating the sensor into a gripper intended for grasping and manipulation. I will describe a variety of recent progress, including hemispherical and ellipsoidal sensors, finger-like sensors, fin-ray effect sensors, roller sensors, and articulated sensors. These new designs allow high resolution sensing of geometry and force, and in some cases also capture proprioceptive information. <br>
-15:20	Rich Walker:	Talk & demo from Shadow Robot <br>
-15:40	Coffee break, posters and demos <br>
+**Session 3:** Sim2Real learning for visuo-tactile perception <br>
+**14:00**	Nathan Lepora:	Session Intro & Talk “Progress in real, simulated and sim2real optical tactile sensing” <br>
+**14:20**	Katherine Kuchenbecker:	Invited talk “Haptic Intelligence for HRI” <br>
+**14:40**	Roberto Calandra:	Invited talk “What's next for Vision-based Tactile Sensors?” <br>
+**15:00**	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” Abstract: Camera based tactile sensors such as GelSight are becoming increasingly popular. The classic boxy design is limiting, especially when integrating the sensor into a gripper intended for grasping and manipulation. I will describe a variety of recent progress, including hemispherical and ellipsoidal sensors, finger-like sensors, fin-ray effect sensors, roller sensors, and articulated sensors. These new designs allow high resolution sensing of geometry and force, and in some cases also capture proprioceptive information. <br>
+**15:20**	Rich Walker:	Talk & demo from Shadow Robot <br>
+**15:40**	Coffee break, posters and demos <br>
 
-Session 4	Challenges and Outlook <br>
-16:30	Wenzhen Yuan:	Session Intro & Talk “Bridging simulated and the real-world tactile sensors: challenges and outlook” <br>
-16:50	Dieter Fox: 	Invited talk “Sim2Real for Contact Rich Tasks” <br>
-17:10	All speakers	Group discussion <br>
-18:00	Finish <br>
+**Session 4**	Challenges and Outlook <br>
+**16:30**	Wenzhen Yuan:	Session Intro & Talk “Bridging simulated and the real-world tactile sensors: challenges and outlook” <br>
+**16:50**	Dieter Fox: 	Invited talk “Sim2Real for Contact Rich Tasks” <br>
+**17:10**	All speakers	Group discussion <br>
+**18:00**	Finish <br>
 
 We thank the support from the following IEEE RAS Technical Committees: <br>
 -   Haptics <br>
