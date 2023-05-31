@@ -31,7 +31,7 @@ The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop Y
 [Ted Adelson](https://www.csail.mit.edu/person/ted-adelson), MIT <br>
 [Dieter Fox](http://homes.cs.washington.edu/~fox/), Nvidia / University of Washington <br>
 [Ravinder Dahiya](https://rsdahiya.com/), Northeastern University <br>
-[Roberto Calandra](https://www.robertocalandra.com/about/), Meta <br>
+[Roberto Calandra](https://lasr.org/), TU Dresden <br>
 [Michael Yu Wang](https://research.monash.edu/en/persons/michael-wang-2), Monash University <br>
 [Katherine Kuchenbecker](https://is.mpg.de/~kjk), Max Planck Institute for Intelligent Systems <br>
 [Lucia Beccai](https://www.iit.it/web/soft-biorobotics-perception), Istituto Italiano di Tecnologia <br>
