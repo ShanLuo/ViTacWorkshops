@@ -16,6 +16,8 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 
 
 
+<span style="color:red">**Hybrid format:** All presentations will be streamed to our online participants through the InfoVaya Conference App and hosted on Zoom, click [this link](https://us06web.zoom.us/j/83162631704?pwd=Y1haSXA1RmZJZFYyVkZpMm1zSDlZZz09) to access the Zoom meeting. Virtual attendees will be able to observe the session and submit questions through the Zoom chat function. One of the organisers will monitor the questions from remote participants and field them in the workshop room. Prospective questions and discussion topics for the group discussion will be collected all day from both in-presence and online participants. Posters will be displayed all day and will also be accessible in digital format for those attending online.</span> <br>
+
 <span style="color:red">**News:** We are seeking top-quality original articles for a [Special Issue on Tactile Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/special-issue-on-tactile-robotics) that we are organising in the IEEE Transactions on Robotics.</span> <br>
 
 The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop YouTube channel](https://www.youtube.com/@ICRAViTacWorkshop/playlists), a legacy of ICRA 2020 and 2021 ViTac workshops, for recordings of the ViTac workshops.
@@ -60,7 +62,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
 **Session 1:** Development of touch sensors <br>
 **09:20**	Gordon Cheng: Session Intro <br>
 **09:30**	Ravinder Dahiya:	Invited talk “Electronic skin with printed temperature and light detection sensors” <br>
-**09:50**	Lucia Beccai:	Invited talk “Soft sensing approaches towards embodied perception in bioinspired soft gripping” <br>
+**09:50**	Lucia Beccai:	Invited talk “The elephant trunk as a new model of tactile perception” <br>
 **10:10**	Poster presenters - 1	Lightning poster presentations (2mins each) <br>
       Poster 1: Eric T. Chang, Peter Ballentine, Ioannis Kymissis, Matei Ciocarlie. <em> Towards Development of a Signal-Dense Multimodal Tactile Finger </em> [[PDF]](content/ViTac2023_Paper_01.pdf) <br>
       Poster 2: Max Yang, Yijiong Lin, Alex Church, John Lloyd, Dandan Zhang, David A.W. Barton, Nathan F. Lepora. <em> Generalizable and Robust Tactile Pushing using Sim-to-Real Deep Reinforcement Learning </em> [[PDF]](content/ViTac2023_Paper_02.pdf) <br>
@@ -87,7 +89,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
 
 **Session 3:** Sim2Real learning for visuo-tactile perception <br>
 **14:00**	Nathan Lepora:	Session Intro & Talk “Progress in real, simulated and sim2real optical tactile sensing” <br>
-**14:20**	Katherine Kuchenbecker:	Invited talk “Haptic Intelligence for HRI” <br>
+**14:20**	Katherine Kuchenbecker:	Invited talk “Minsight: A Fingertip-Sized Vision-Based Tactile Sensor for Robotic Manipulation” <br>
 **14:40**	Roberto Calandra:	Invited talk “What's next for Vision-based Tactile Sensors?” <br>
 **15:00**	Ted Adelson:	Invited talk “Advances in Camera Based Tactile Sensing” Abstract: Camera based tactile sensors such as GelSight are becoming increasingly popular. The classic boxy design is limiting, especially when integrating the sensor into a gripper intended for grasping and manipulation. I will describe a variety of recent progress, including hemispherical and ellipsoidal sensors, finger-like sensors, fin-ray effect sensors, roller sensors, and articulated sensors. These new designs allow high resolution sensing of geometry and force, and in some cases also capture proprioceptive information. <br>
 **15:20**	Rich Walker:	Talk & demo from Shadow Robot <br>
