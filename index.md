@@ -22,6 +22,10 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 
 The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop YouTube channel](https://www.youtube.com/@ICRAViTacWorkshop/playlists), a legacy of ICRA 2020 and 2021 ViTac workshops, for recordings of the ViTac workshops.
 
+<span style="color:red">**News:** The recording of the workshop is availabe in [this link](https://www.youtube.com/watch?v=jM9KCMhRMYI).</span> <br>
+
+
+
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
 [Nathan Lepora](www.lepora.com), University of Bristol <br>
