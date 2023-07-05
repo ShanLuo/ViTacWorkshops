@@ -26,7 +26,7 @@ The workshop will be hybrid, please follow our customised [ICRA ViTac Workshop Y
 
 
 
-{% include figure.html img="IMG_1095.jpeg" alt="intro image here" caption="ICRA 2023 London" width="75%" %}
+{% include figure.html img="IMG_1095.jpeg" alt="group image here" caption="ICRA 2023 London" width="75%" %}
 
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
