@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# ICRA 2023 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception
+# ICRA 2024 ViTac Workshop: Blending Virtual and Real Visuo-Tactile Perception
 
 {% include figure.html img="ICRA2023.jpeg" alt="intro image here" caption="ICRA 2023 London" width="75%" %}
 
@@ -14,7 +14,7 @@ Abstract: This is the 4th time for us to organise the ViTac workshop in the ICRA
 **Time:**  9:00-18:00 (London time) Friday 2nd June 2023 (access to the room starts from 8:00) <br>
 **Location:** ICC Capital Suite 6, xCeL London, 1 Western Gateway, London E16 1XL <br>
 
-
+For past ViTac workshops, please check vitac2023.md
 
 <span style="color:red">**Hybrid format:** All presentations will be streamed to our online participants through the InfoVaya Conference App and hosted on Zoom, click [this link](https://us06web.zoom.us/j/83162631704?pwd=Y1haSXA1RmZJZFYyVkZpMm1zSDlZZz09) to access the Zoom meeting. Virtual attendees will be able to observe the session and submit questions through the Zoom chat function. One of the organisers will monitor the questions from remote participants and field them in the workshop room. Prospective questions and discussion topics for the group discussion will be collected all day from both in-presence and online participants. Posters will be displayed all day and will also be accessible in digital format for those attending online.</span> <br>
 
