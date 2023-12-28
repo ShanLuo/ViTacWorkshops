@@ -42,7 +42,7 @@ Workshop day: 13th May or 17th May 2024
 
 The accepted papers will be invited to publish their accepted extended abstracts in Springer Nature conference proceedings series Lecture Notes in Computer Science (LNCS).
 
-Topics of Interest:
+**Topics of Interest:** <br>
 ●  	Development of tactile sensors for robot tasks <br>
 ●  	Simulation of tactile sensors and Sim2Real learning <br>
 ●  	Visual-tactile sensing and perception <br>
