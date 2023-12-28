@@ -2,6 +2,7 @@
 title: Home
 layout: default
 ---
+{% include figure.html img="ViTac2019.JPG" alt="intro image here" caption="ICRA 2019 Montreal" width="75%" %}
 
 # ICRA 2019 ViTac Workshop: Integrating Vision and Touch for Multimodal and Cross-modal Perception
 
