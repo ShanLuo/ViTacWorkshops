@@ -109,20 +109,20 @@ Posters and live demonstrations will be selected from a call for extended abstra
 
 **Accepted papers** <br>
 <ol>
-  <li>Eric T. Chang, Peter Ballentine, Ioannis Kymissis, Matei Ciocarlie. "Towards Development of a Signal-Dense Multimodal Tactile Finger"</li>
-  <li>Max Yang, Yijiong Lin, Alex Church, John Lloyd, Dandan Zhang, David A.W. Barton, Nathan F. Lepora, "Generalizing Object Pushing Using Touch: A Sim-to-Real Deep Reinforcement Learning Approach"</li>
-  <li>Saekwang Nam, Loong Yi Lee, Max Yang, Naoki Shitanda, Jonathan Rossiter, Nathan Lepora, "Vision and Tactile Pose Identification for Picking a Target without Collision"</li>
-  <li>Christopher J. Ford, Haoran Li, John Lloyd, Manuel G. Catalano, Matteo Bianchi, Efi Psomopoulou, Nathan F. Lepora, "Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks"</li>
-  <li>Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Manipulation Skills. "Xingshuo Jing, Yongqiang Zhao, Jiaqi Jiang, Boyi Duan, Kun Qian, Shan Luo"</li>
-  <li>Mauro Comi, Alex Church, Kejie Li, Laurence Aitchison, Nathan F. Lepora. "Implicit Neural Representation for 3D Shape Reconstruction Using Vision-Based Tactile Sensing"</li>
-  <li>Julio Castan ̃o-Amoro ́s and Pablo Gil. "Rotational Slippage Prediction from Segmentation of Tactile Images"</li>
-  <li>Zixi Chen, Shixin Zhang, Yuhao Sun, Shan Luo, Fuchun Sun, and Bin Fang. "Plasticine Manipulation Simulation with Optical Tactile Sensing"</li>
-  <li>Yijiong Lin, Mauro Comi, Alex Church, Dandan Zhang, Nathan F. Lepora. "Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control"</li>
-  <li>Daniel Gomes and Paolo Paoletti and Shan Luo. "Simulation of Curved GelSight Sensors for Sim2Real Learning"</li>
-  <li>Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. "Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation"</li>
-  <li>Jiaqi Jiang, Guanqun Cao, Aaron Butterworth, Thanh-Toan Do, and Shan Luo. "Vision-Guided Tactile Poking for Transparent Object Grasping"</li>
-  <li>Abu Bakar Dawood, Brice Denoun, and Kaspar Althoefer. "Data-Driven Optical Tomography-based Soft Skin Sensor"</li>
-  <li>Carolina Higuera, Byron Boots, and Mustafa Mukadam. "Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models"</li>
+  <li>Eric T. Chang, Peter Ballentine, Ioannis Kymissis, Matei Ciocarlie. "Towards Development of a Signal-Dense Multimodal Tactile Finger" [[PDF]](content/ViTac2023_Paper_01.pdf) </li>
+  <li>Max Yang, Yijiong Lin, Alex Church, John Lloyd, Dandan Zhang, David A.W. Barton, Nathan F. Lepora, "Generalizing Object Pushing Using Touch: A Sim-to-Real Deep Reinforcement Learning Approach" [[PDF]](content/ViTac2023_Paper_02.pdf) </li>
+  <li>Saekwang Nam, Loong Yi Lee, Max Yang, Naoki Shitanda, Jonathan Rossiter, Nathan Lepora, "Vision and Tactile Pose Identification for Picking a Target without Collision [[PDF]](content/ViTac2023_Paper_03.pdf) </li>
+  <li>Christopher J. Ford, Haoran Li, John Lloyd, Manuel G. Catalano, Matteo Bianchi, Efi Psomopoulou, Nathan F. Lepora, "Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks" [[PDF]](content/ViTac2023_Paper_04.pdf) </li>
+  <li>Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Manipulation Skills. "Xingshuo Jing, Yongqiang Zhao, Jiaqi Jiang, Boyi Duan, Kun Qian, Shan Luo" [[PDF]](content/ViTac2023_Paper_05.pdf) </li>
+  <li>Mauro Comi, Alex Church, Kejie Li, Laurence Aitchison, Nathan F. Lepora. "Implicit Neural Representation for 3D Shape Reconstruction Using Vision-Based Tactile Sensing" [[PDF]](content/ViTac2023_Paper_06.pdf) </li>
+  <li>Julio Castan ̃o-Amoro ́s and Pablo Gil. "Rotational Slippage Prediction from Segmentation of Tactile Images" [[PDF]](content/ViTac2023_Paper_07.pdf) </li>
+  <li>Zixi Chen, Shixin Zhang, Yuhao Sun, Shan Luo, Fuchun Sun, and Bin Fang. "Plasticine Manipulation Simulation with Optical Tactile Sensing" [[PDF]](content/ViTac2023_Paper_08.pdf) </li>
+  <li>Yijiong Lin, Mauro Comi, Alex Church, Dandan Zhang, Nathan F. Lepora. "Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control" [[PDF]](content/ViTac2023_Paper_09.pdf) </li>
+  <li>Daniel Gomes and Paolo Paoletti and Shan Luo. "Simulation of Curved GelSight Sensors for Sim2Real Learning" [[PDF]](content/ViTac2023_Paper_10.pdf) </li>
+  <li>Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. "Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation" [[PDF]](content/ViTac2023_Paper_11.pdf) </li>
+  <li>Jiaqi Jiang, Guanqun Cao, Aaron Butterworth, Thanh-Toan Do, and Shan Luo. "Vision-Guided Tactile Poking for Transparent Object Grasping" [[PDF]](content/ViTac2023_Paper_12.pdf) </li>
+  <li>Abu Bakar Dawood, Brice Denoun, and Kaspar Althoefer. "Data-Driven Optical Tomography-based Soft Skin Sensor" [[PDF]](content/ViTac2023_Paper_13.pdf) </li>
+  <li>Carolina Higuera, Byron Boots, and Mustafa Mukadam. "Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models" [[PDF]](content/ViTac2023_Paper_14.pdf) </li>
 </ol>
 
 
