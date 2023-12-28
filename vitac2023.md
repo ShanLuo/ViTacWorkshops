@@ -107,6 +107,25 @@ Posters and live demonstrations will be selected from a call for extended abstra
 **17:10**	All speakers	Group discussion <br>
 **18:00**	Finish <br>
 
+**Accepted papers** <br>
+<ol>
+  <li>Eric T. Chang, Peter Ballentine, Ioannis Kymissis, Matei Ciocarlie. "Towards Development of a Signal-Dense Multimodal Tactile Finger"</li>
+  <li>Max Yang, Yijiong Lin, Alex Church, John Lloyd, Dandan Zhang, David A.W. Barton, Nathan F. Lepora, "Generalizing Object Pushing Using Touch: A Sim-to-Real Deep Reinforcement Learning Approach"</li>
+  <li>Saekwang Nam, Loong Yi Lee, Max Yang, Naoki Shitanda, Jonathan Rossiter, Nathan Lepora, "Vision and Tactile Pose Identification for Picking a Target without Collision"</li>
+  <li>Christopher J. Ford, Haoran Li, John Lloyd, Manuel G. Catalano, Matteo Bianchi, Efi Psomopoulou, Nathan F. Lepora, "Tactile-Driven Gentle Grasping for Human-Robot Collaborative Tasks"</li>
+  <li>Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Manipulation Skills. "Xingshuo Jing, Yongqiang Zhao, Jiaqi Jiang, Boyi Duan, Kun Qian, Shan Luo"</li>
+  <li>Mauro Comi, Alex Church, Kejie Li, Laurence Aitchison, Nathan F. Lepora. "Implicit Neural Representation for 3D Shape Reconstruction Using Vision-Based Tactile Sensing"</li>
+  <li>Julio Castan ̃o-Amoro ́s and Pablo Gil. "Rotational Slippage Prediction from Segmentation of Tactile Images"</li>
+  <li>Zixi Chen, Shixin Zhang, Yuhao Sun, Shan Luo, Fuchun Sun, and Bin Fang. "Plasticine Manipulation Simulation with Optical Tactile Sensing"</li>
+  <li>Yijiong Lin, Mauro Comi, Alex Church, Dandan Zhang, Nathan F. Lepora. "Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control"</li>
+  <li>Daniel Gomes and Paolo Paoletti and Shan Luo. "Simulation of Curved GelSight Sensors for Sim2Real Learning"</li>
+  <li>Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. "Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation"</li>
+  <li>Jiaqi Jiang, Guanqun Cao, Aaron Butterworth, Thanh-Toan Do, and Shan Luo. "Vision-Guided Tactile Poking for Transparent Object Grasping"</li>
+  <li>Abu Bakar Dawood, Brice Denoun, and Kaspar Althoefer. "Data-Driven Optical Tomography-based Soft Skin Sensor"</li>
+  <li>Carolina Higuera, Byron Boots, and Mustafa Mukadam. "Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models"</li>
+</ol>
+
+
 We thank the support from the following IEEE RAS Technical Committees: <br>
 -   Haptics <br>
 -   Cognitive Robotics <br>
