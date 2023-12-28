@@ -3,42 +3,48 @@ title: Home
 layout: default
 ---
 
-# ICRA 2019 ViTac Workshop: Trends and Challenges in Visuo-Tactile Perception
+# ICRA 2019 ViTac Workshop: Integrating Vision and Touch for Multimodal and Cross-modal Perception
 
-Abstract: This is the 3rd time for us to organise the ViTac workshop in the ICRA conferences and will be a milestone after two consecutive ViTac workshops. This workshop aims to put the visuo-tactile perception under the spotlight by investigating the current trends and providing guidance towards possible future directions in the field. Humans couple vision and touch tightly in daily tasks like grasping and manipulation. Similarly, multimodal perception also plays a key role for robots to execute tasks in unstructured environments. In recent decades, there has been much advancement in integrating vision and tactile sensing for robots, both in hardware and software.  In the ICRA 2019 ViTac workshop, we highlighted the recent development of optical tactile sensors by integrating visual cameras in tactile sensors for multimodal and cross-modal perception. In the ICRA 2020 ViTac workshop, we drew attention to how vision and tactile sensing together contribute to closing the perception-action loop. This proposed full-day workshop will encompass recent progress in the area of visuo-tactile perception, particularly the trends both in the hardware and algorithms. It will further enhance active collaboration and address challenges for this important topic and applications.
+Abstract: Animals interact with the world through multimodal sensing inputs, especially vision and touch sensing in the case of humans. In contrast, artificial systems usually rely on a single sensing modality, with distinct hardware and algorithmic approaches developed for each modality, e.g. computer vision and tactile robotics. Future robots, as embodied agents, should make best use of all available sensing modalities to interact with the environment. Over the last few years, there have been advances in the fusing of information from distinct modalities and selecting between those modalities to use the most appropriate information for achieving a goal, e.g. grasping or manipulating an object. Furthermore, there has been a recent acceleration in the development of optical tactile sensors using cameras, such as the GelSight and TacTip tactile sensors, bridging the gap between vision and tactile sensing, and creating cross-modal perception. This workshop will encompass recent progress in the area of combining vision and touch sensing from the perspective of how touch sensing complements vision to achieve a better robot perception, exploration, learning and interaction with humans. The proposed full-day workshop aims to enhance active collaboration, discussion of methods for the fusion of vision and touch, discussion of challenges for multimodal and cross-modal sensing, development of optical tactile sensors and applications.
 
 **Organisers:** <br>
-[Shan Luo](https://shanluo.github.io/), King's College London <br>
+[Shan Luo](https://shanluo.github.io/), University of Liverpool <br>
 [Nathan Lepora](www.lepora.com), University of Bristol <br>
-[Wenzhen Yuan](https://www.ri.cmu.edu/ri-faculty/wenzhen-yuan/), Carnegie Mellon University <br>
-[Kaspar Althoefer](http://www.eecs.qmul.ac.uk/profiles/althoeferkaspar.html), Queen Mary University of London <br>
-[Gordon Cheng](https://www.professoren.tum.de/en/cheng-gordon), Technische Universität München <br>
+[Uriel Martinez Hernandez](https://researchportal.bath.ac.uk/en/persons/uriel-martinez-hernandez), University of Bath <br>
+[João Bimbo](https://www.iit.it/people/joao-bimbo), Istituto Italiano di Tecnologia (IIT) <br>
+[Huaping Liu](https://sites.google.com/site/thuliuhuaping/), Tsinghua University <br>
 
 **Invited speakers:** <br>
-●	Roberta L. Klatzky, CMU <br>
-●	Aude Billard, EPFL <br>
-●	Edward Adelson, MIT <br>
-●	Lorenzo Jamone, Queen Mary University of London <br>
-●	Matei Ciocarlie, Columbia University <br>
-●	Harold Soh, National University of Singapore <br>
-●	Roberto Calandra, Meta <br>
-●	Qiang Li, Bielefeld University <br>
+●	Edward Adelson (MIT)  <br>
+●	Peter Allen (Columbia University)  <br>
+●	Alberto Rodriguez (MIT)  <br>
+●	Oliver Kroemer (CMU)  <br>
+●	Lorenzo Natale (IIT)  <br>
+●	Vincent Hayward (UPMC Univ Paris)  <br>
+●	Hongbin Liu (King’s College London)  <br>
+●	Van Ho (Japan Adv. Institute of Science and Technology)  <br>
 
 **Accepted papers** <br>
 <ol>
-  <li><a href="content/ViTac2021_Paper_01.pdf">S. Funabashi, G. Yang, F. Hongyi, A. Schmitz, L. Jamone, T. Ogata and S. Sugano. "Visualization of Tactile Features for Object Recognition with a Multi-Fingered Hand" </a></li>
-  <li><a href="content/ViTac2021_Paper_02.pdf">Sunny Katyara, Fanny Ficuciello, Tao Teng, Fei Chen, Bruno Siciliano, Darwin G. Caldwell, "Intuitive Tasks Planning Using Visuo-Tactile Perception for Human Robot Cooperation" </a></li>
-  <li><a href="content/ViTac2021_Paper_03.pdf">Francesca Palermo, Changjae Oh, Kaspar Althoefer, Stefan Poslad, Ildar Farkhatdinov, "Investigation of images of cracks via graph theory for developing an optimal exploration algorithm for a robotic manipulator" </a></li>
-  <li><a href="content/ViTac2021_Paper_04.pdf">Jiaqi Jiang, Guanqun Cao, Daniel Fernandes Gomes and Shan Luo. "Rapid Crack Reconstruction Using Tactile Sensing and Vision" </a></li>
-  <li><a href="content/ViTac2021_Paper_05.pdf">Stephen J. Redmond, Benjamin Xia, and Heba Khamis. "Real-time Friction Estimation for Grip Force Control" </a></li>
-  <li><a href="content/ViTac2021_Paper_06.pdf">Arkadeep Narayan Chaudhury, Timothy Man, Wenzhen Yuan, Christopher Atkeson. "Using collocated vision to improve tactile sensing" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_1.pdf">Giovanni Sutanto, Balakumar Sundaralingam, Yevgen Chebotar, Zhe Su, Ankur Handa, Nathan Ratliff and Dieter Fox. "Learning Latent Space Dynamics for Tactile Servoing" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_2.pdf">Alexander C. Abad and Anuradha Ranasinghe, "Pilot Study: Low Cost GelSight Sensor" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_3.pdf">Oliver Struckmeier, Kshitij Tiwari, Martin J. Pearson, and Ville Kyrki, "ViTa-SLAM: Biologically-Inspired Visuo-Tactile SLAM" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_4.pdf">Maria Bauza, Oleguer Canal and Alberto Rodriguez. "Tactile Mapping and Localization from High-Resolution Tactile Imprints" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_5.pdf">Hongzhuo Liang, Shuang Li, Xiaojian Ma, Norman Hendrich, Timo Gerkmann, Jianwei Zhang. "Making Sense of Audio Vibration for Liquid Height Estimation in Robotic Pouring" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_7.pdf">Teng Xue, Wenhai Liu, Mingshuo Han, Zhenyu Pan, Jin Ma, Quanquan Shao, Weiming Wang. "Bayesian Grasp:Vision based robotic stable grasp via prior tactile knowledge learning" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_8.pdf">Gyan Tatiya and Jivko Sinapov. "Sensorimotor Cross-Perception Knowledge Transfer for Grounded Category Recognition" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_9.pdf">Daniel Fernandes Gomes, Achu Wilson and Shan Luo. "GelSight Simulation for Sim2Real Learning" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_10.pdf">J. Monteiro, H. Araujo, M. Tavakoli, Amilcar Ramalho. "A Novel Sensor to Measure Surface Deformation and Contact Shape Using Stereo Vision" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_11.pdf">L.N. Vishnunandan Venkatesh, Jyothsna Padmakumar Bindu and Richard M Voyles. "Functional Inspection Using Tactile Perception during Manipulation of Deformable Objects" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_12.pdf">Gustavo Goretkin, Leslie Pack Kaelbling, Tomas Lozano-Perez. "Motion planning with visual and tactile sensing for safety in uncertain environments" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_13.pdf">Radhen Patel, Jacob Segil and Nikolaus Correll. "Reactive control of a robot hand equipped with visual-haptic sensor for pre-grasp shaping and gentle touch" </a></li>
+  <li><a href="content/ICRA2019ViTac_paper_14.pdf">Timo Korthals , Andrew Melnik , Ju ̈rgen Leitner , and Marc Hesse. "Multisensory Assisted In-hand Manipulation of Objects with a Dexterous Hand" </a></li>
 </ol>
 
 
 We thank the support from the following IEEE RAS Technical Committees: <br>
 -   Haptics <br>
--   Cognitive Robotics <br>
--   Human-Robot Interaction & Coordination <br>
+-   Computer and Robot Vision <br>
 
 
 <!-- 
