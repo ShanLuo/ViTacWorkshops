@@ -11,7 +11,7 @@ Abstract: This is the 5th time for us to organise the ViTac workshop in the ICRA
 
 For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViTacWorkshops/vitac2023).
 
-**Time:** 13th / 17th May 2024
+**Time:** 13th / 17th May 2024 <br>
 **Location:** Yokohama, Japan.
 
 **Organisers:** <br>
@@ -43,14 +43,14 @@ Workshop day: 13th May or 17th May 2024
 The accepted papers will be invited to publish their accepted extended abstracts in Springer Nature conference proceedings series Lecture Notes in Computer Science (LNCS).
 
 Topics of Interest:
-●  	Development of tactile sensors for robot tasks
-●  	Simulation of tactile sensors and Sim2Real learning
-●  	Visual-tactile sensing and perception
-The control and design of robotic visuo-tactile systems for human-robot interaction
-Interactive visuo-tactile perception in robot grasping and manipulation 
-Cognitive control of movement and sensory-motor representations with vision and touch
-●  	Bio-inspired approaches and cognitive architectures for the visuo-tactile perception
-●    Computational methods for processing vision and touch data in robot learning
+●  	Development of tactile sensors for robot tasks <br>
+●  	Simulation of tactile sensors and Sim2Real learning <br>
+●  	Visual-tactile sensing and perception <br>
+●  	The control and design of robotic visuo-tactile systems for human-robot interaction <br>
+●  	Interactive visuo-tactile perception in robot grasping and manipulation <br>
+●  	Cognitive control of movement and sensory-motor representations with vision and touch <br>
+●  	Bio-inspired approaches and cognitive architectures for the visuo-tactile perception <br>
+●    Computational methods for processing vision and touch data in robot learning <br>
 
 We thank the support from the following IEEE RAS Technical Committees: <br>
 -   Haptics <br>
