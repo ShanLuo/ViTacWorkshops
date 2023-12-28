@@ -86,7 +86,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
       Poster 8: Zixi Chen, Shixin Zhang, Yuhao Sun, Shan Luo, Fuchun Sun, and Bin Fang. <em> Plasticine Manipulation Simulation with Optical Tactile Sensing </em> [[PDF]](content/ViTac2023_Paper_08.pdf) <br>
       Poster 9: Yijiong Lin, Mauro Comi, Alex Church, Dandan Zhang, Nathan F. Lepora. <em> Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control </em> [[PDF]](content/ViTac2023_Paper_09.pdf) <br>
       Poster 10: Daniel Gomes and Paolo Paoletti and Shan Luo. <em> Simulation of Curved GelSight Sensors for Sim2Real Learning </em> [[PDF]](content/ViTac2023_Paper_10.pdf) <br>
-      Poster 11: Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. <em> Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation </em> [[PDF]](content/ViTac2023_Paper_11.pdf) <br>
+      Poster 11: Guanqun Cao, Jiaqi Jiang, Ningtao Mao, Danushka Bollegala, Min Li, and Shan Luo. <em> Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation </em> [PDF](content/ViTac2023_Paper_11.pdf) <br>
       Poster 12: Jiaqi Jiang, Guanqun Cao, Aaron Butterworth, Thanh-Toan Do, and Shan Luo. <em> Vision-Guided Tactile Poking for Transparent Object Grasping </em> [[PDF]](content/ViTac2023_Paper_12.pdf) <br>
       Poster 13: Abu Bakar Dawood, Brice Denoun, and Kaspar Althoefer. <em> Optical Tomography-based Soft Sensor Skin </em> [[PDF]](content/ViTac2023_Paper_13.pdf) <br>
       Poster 14: Carolina Higuera, Byron Boots, and Mustafa Mukadam. <em> Learning to Read Braille: Bridging the Tactile Reality Gap with Diffusion Models </em> [[PDF]](content/ViTac2023_Paper_14.pdf) <br>
