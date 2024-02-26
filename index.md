@@ -13,7 +13,7 @@ In our one-day workshop, we will discuss topics relating to visuo-tactile percep
 
 For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViTacWorkshops/vitac2023), [ViTac2021](https://shanluo.github.io/ViTacWorkshops/vitac2021), [ViTac2020](https://shanluo.github.io/ViTacWorkshops/vitac2020), [ViTac2019](https://shanluo.github.io/ViTacWorkshops/vitac2019).
 
-**Time:** 13th / 17th May 2024 <br>
+**Time:** 17th May 2024 <br>
 **Location:** Yokohama, Japan.
 
 **Organisers:** <br>
@@ -36,7 +36,9 @@ Van Anh Ho, JAIST, Japan <br>
 Maria Bauza Villalonga, DeepMind <br>
 
 **Key dates** <br>
-Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. Submissions must be sent in pdf, following the IEEE conference style (two-columns), to: shan.luo@kcl.ac.uk, indicating [ICRA 2024 Workshop] in the email subject. <br>
+Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. <br>
+
+Expected contributions should be submitted in the form of extended abstracts (max 2 pages + references) in IEEE Conference paper format. Submissions must be sent in pdf (<5MB), to: shan.luo@kcl.ac.uk, indicating [ICRA 2024 Workshop] in the email subject. <br>
 Submission Deadline: 15th March, 2024 <br>
 Notification of acceptance: 30th March, 2024 <br>
 Camera-ready deadline: 15th April, 2024 <br>
