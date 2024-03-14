@@ -39,9 +39,9 @@ Maria Bauza Villalonga, DeepMind <br>
 Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. <br>
 
 Expected contributions should be submitted in the form of extended abstracts (max 2 pages + references) in IEEE Conference paper format. Submissions must be sent in pdf (<5MB), to: shan.luo@kcl.ac.uk, indicating [ICRA 2024 Workshop] in the email subject. <br>
-Submission Deadline: 15th March, 2024 <br>
-Notification of acceptance: 30th March, 2024 <br>
-Camera-ready deadline: 15th April, 2024 <br>
+Submission Deadline: <s>15th March</s> 30th March, 2024 <br>
+Notification of acceptance: <s>30th March</s> 15th April, 2024 <br>
+Camera-ready deadline: <s>15th April</s> 30th April, 2024 <br>
 Workshop day: 13th May or 17th May 2024 <br>
 
 The accepted papers will be invited to publish their accepted extended abstracts in Springer Nature conference proceedings series Lecture Notes in Computer Science (LNCS). <br>
