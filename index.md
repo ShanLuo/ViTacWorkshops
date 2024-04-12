@@ -16,6 +16,35 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 **Time:** 17th May 2024 <br>
 **Location:** Yokohama, Japan.
 
+
+**(Tentative) Program** <br>
+**09:00-09:10**	Organisers - Shan Luo	Welcome & updates on TRO Special Collection <br>
+**Session 1: Development of touch sensors - Hardware intelligence**		<br>
+**09:10-09:20**	Nathan Lepora & Shan Luo	Session Intro <br>
+**09:20-09:40**	Ravinder Dahiya	Movement Detection using Self-Powered e-Skin <br>
+**09:40-10:00**	Antonio Bicchi	From optic flow to tactile flow. Background and new results <br>
+**10:00-10:30**	Coffee break, posters and demos	<br>
+**Session 2: Robot embodiment with vision and tactile sensing**		<br>
+**10:30-10:40**	Wenzhen Yuan & Shan Luo	Session Intro <br>
+**10:40-11:00**	Perla Maiolino	Proxy-tactile technology and tactile data generation for robot self-awareness and control <br>
+**11:00-11:20**	Van Anh Ho	How to make robot “feel" safe?: Embodiment in robot safety with vision-based multimodal sensing <br>
+**11:20-12:00**	Poster presenters	Lightning poster presentations (2mins each) <br>
+**12:00-14:00**	Lunch break, posters and demos	<br>
+**Session 3: Challenges in visual-tactile perception**		<br>
+**14:00-14:10**	Rui Chen & Hao Su	Session intro <br>
+**14:10-14:30**	Mark Cutkosky	Invited talk <br>
+**14:30-14:50**	Roberto Calandra	Towards General In-hand Manipulation with Touch <br>
+**14:50-15:10**	ManiSkill-ViTac Challenge	Conclusion of ManiSkill-ViTac Challenge, Award Ceremony <br>
+**15:10-15:30**	ManiSkill-ViTac Challenge	Invited talk from challenge winners <br>
+**15:30-16:00**	Coffee break, posters and demos	<br>
+**Session 4 The future of robot embodiment with visual-tactile perception**		<br>
+**16:00-16:10**	Kaspar Althoefer & Gordon Cheng	Session intro <br>
+**16:10-16:30**	Huaping Liu	Large-scale tactile perception for interaction and manipulation <br>
+**16:30-16:50**	Maria Bauza Villalonga	Visuo-tactile sensing for precise robotic manipulation with multiple embodiments <br>
+**16:50-17:30**	All speakers	Group discussion <br>
+**17:30**	Finish	<br>
+
+
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
 [Nathan Lepora](www.lepora.com), University of Bristol <br>
