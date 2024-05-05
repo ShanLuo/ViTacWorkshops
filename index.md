@@ -13,8 +13,9 @@ In our one-day workshop, we will discuss topics relating to visuo-tactile percep
 
 For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViTacWorkshops/vitac2023), [ViTac2021](https://shanluo.github.io/ViTacWorkshops/vitac2021), [ViTac2020](https://shanluo.github.io/ViTacWorkshops/vitac2020), [ViTac2019](https://shanluo.github.io/ViTacWorkshops/vitac2019).
 
-**Time:** 17th May 2024 <br>
-**Location:** Yokohama, Japan.  <br>
+**Time:** Full day, 17th May 2024 <br>
+<span style="color:blue"> **Location:** G411 (North area), PACIFICO Yokohama (Hybrid), Yokohama, Japan. </span> <br>
+
 
 
 **(Tentative) Program** <br>
@@ -76,7 +77,7 @@ Expected contributions should be submitted in the form of extended abstracts (ma
 Submission Deadline: <s>15th March</s> 30th March, 2024 <br>
 Notification of acceptance: <s>30th March</s> 15th April, 2024 <br>
 Camera-ready deadline: <s>15th April</s> 30th April, 2024 <br>
-Workshop day: 13th May or 17th May 2024 <br>
+Workshop day: 17th May 2024 <br>
 
 The accepted papers will be invited to publish their accepted extended abstracts in Springer Nature conference proceedings series Lecture Notes in Computer Science (LNCS). <br>
 
