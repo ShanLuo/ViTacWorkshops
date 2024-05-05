@@ -14,22 +14,25 @@ In our one-day workshop, we will discuss topics relating to visuo-tactile percep
 For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViTacWorkshops/vitac2023), [ViTac2021](https://shanluo.github.io/ViTacWorkshops/vitac2021), [ViTac2020](https://shanluo.github.io/ViTacWorkshops/vitac2020), [ViTac2019](https://shanluo.github.io/ViTacWorkshops/vitac2019).
 
 **Time:** 17th May 2024 <br>
-**Location:** Yokohama, Japan.
+**Location:** Yokohama, Japan.  <br>
 
 
 **(Tentative) Program** <br>
-**09:00-09:10**	Organisers - Shan Luo	Welcome & updates on TRO Special Collection <br>
+**09:00-09:10**	Organisers - Shan Luo:	Welcome & updates on TRO Special Collection <br>
+
 **Session 1: Development of touch sensors - Hardware intelligence**		<br>
 **09:10-09:20**	Nathan Lepora & Shan Luo:	Session Intro <br>
 **09:20-09:40**	Ravinder Dahiya:	“Movement Detection using Self-Powered e-Skin” <br>
 **09:40-10:00**	Antonio Bicchi:	"From optic flow to tactile flow. Background and new results" <br>
 **10:00-10:30**	Coffee break, posters and demos	<br>
+
 **Session 2: Robot embodiment with vision and tactile sensing**		<br>
 **10:30-10:40**	Wenzhen Yuan & Shan Luo:	Session Intro <br>
 **10:40-11:00**	Perla Maiolino:	"Proxy-tactile technology and tactile data generation for robot self-awareness and control" <br>
 **11:00-11:20**	Van Anh Ho:	"How to make robot “feel" safe?: Embodiment in robot safety with vision-based multimodal sensing" <br>
 **11:20-12:00**	Poster presenters	Lightning poster presentations (2mins each) <br>
 **12:00-14:00**	Lunch break, posters and demos	<br>
+
 **Session 3: Challenges in visual-tactile perception**		<br>
 **14:00-14:10**	Rui Chen & Hao Su	Session: intro <br>
 **14:10-14:30**	Mark Cutkosky:	Invited talk <br>
@@ -37,6 +40,7 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 **14:50-15:10**	ManiSkill-ViTac Challenge	Conclusion of ManiSkill-ViTac Challenge, Award Ceremony <br>
 **15:10-15:30**	ManiSkill-ViTac Challenge	Invited talk from challenge winners <br>
 **15:30-16:00**	Coffee break, posters and demos	<br>
+
 **Session 4 The future of robot embodiment with visual-tactile perception**		<br>
 **16:00-16:10**	Kaspar Althoefer & Gordon Cheng:	Session intro <br>
 **16:10-16:30**	Huaping Liu:	"Large-scale tactile perception for interaction and manipulation" <br>
@@ -56,14 +60,14 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 [Gordon Cheng](https://www.professoren.tum.de/en/cheng-gordon), Technische Universität München <br>
 
 **Invited speakers:** <br>
-Antonio Bicchi, Italian Institute of Technology and the University of Pisa, Italy <br>
-Mark Cutkosky, Stanford University, USA <br>
-Roberto Calandra, Technische Universität Dresden, Germany <br>
-Huaping Liu, Tsinghua University, China <br>
-Perla Maiolino, University of Oxford, UK <br>
-Ravinder Dahiya, Northeast University, USA <br>
-Van Anh Ho, JAIST, Japan <br>
-Maria Bauza Villalonga, DeepMind <br>
+[Antonio Bicchi](https://www.iit.it/people-details/-/people/antonio-bicchi), Italian Institute of Technology and the University of Pisa, Italy <br>
+[Mark Cutkosky](https://profiles.stanford.edu/mark-cutkosky), Stanford University, USA <br>
+[Roberto Calandra](https://lasr.org/), Technische Universität Dresden, Germany <br>
+[Huaping Liu](https://sites.google.com/site/thuliuhuaping), Tsinghua University, China <br>
+[Perla Maiolino](https://eng.ox.ac.uk/people/perla-maiolino/), University of Oxford, UK <br>
+[Ravinder Dahiya](https://coe.northeastern.edu/people/dahiya-ravinder/), Northeast University, USA <br>
+[Van Anh Ho](https://fp.jaist.ac.jp/public/Default2.aspx?id=669&l=1), JAIST, Japan <br>
+[Maria Bauza Villalonga](https://web.mit.edu/bauza/www/), DeepMind <br>
 
 **Key dates** <br>
 Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. <br>
