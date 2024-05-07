@@ -18,6 +18,8 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 
 ![alt text](https://github.com/ShanLuo/ViTacWorkshops/images/vitac2024_flyer.jpg?raw=true)
 
+{% include figure.html img="vitac2024_flyer.jpg" alt="intro image here" caption="ICRA 2024 ViTac worshop" width="75%" %}
+
 **(Tentative) Program** <br>
 **09:00-09:10**	Organisers - Shan Luo:	Welcome & updates on TRO Special Collection <br>
 
