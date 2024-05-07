@@ -50,6 +50,35 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 **17:00-17:30**	All speakers:	Group discussion <br>
 **17:30**	Finish	<br>
 
+**Accepted papers** <br>
+<ol>
+  <li><a href="content/ViTac2024_Paper_01.pdf">Zeqing Zhang, Guangze Zheng, Xuebo Ji, Guanqi Chen, Ruixing Jia, Wentao Chen, Guanhua Chen, Liangjun Zhang and Jia Pan. "MAE4GM: Visuo-Tactile Learning for Property Estimation of Granular Material using Multimodal Autoencoder" </a></li>
+  <li><a href="content/ViTac2024_Paper_02.pdf">Emanuele Aucone, Carmelo Sferrazza, Manuel Gregor, Raffaello D’Andrea, and Stefano Mintchev. "Optical Tactile Sensing for Multi-Contact Interaction on Aerial Robots" </a></li>
+  <li><a href="content/ViTac2024_Paper_03.pdf">Osher Azulay and Avishai Sintov. "AllSight: Advancing Optical Tactile Sensing and Sim-to-Real Learning for Dexterous Robotic Manipulation" </a></li>
+  <li><a href="content/ViTac2024_Paper_04.pdf">Julia Di, Zdravko Dugonjic, Will Fu, Tingfan Wu, Romeo Mercado, Kevin Sawyer, Victoria Rose Most, Gregg Kammerer, Stefanie Speidel, Richard E. Fan, Geoffrey Sonn, Mark R. Cutkosky, Mike Lambeta, and Roberto Calandra. "DIGIT Pinki: Using Fiber Optic Bundles to Miniaturize Vision-Based Tactile Sensors" </a></li>
+  <li><a href="content/ViTac2024_Paper_05.pdf">Yijiong Lin, Alex Church, Max Yang, Haoran Li, John Lloyd, Dandan Zhang, Nathan F. Lepora. "Bi-Touch: Bimanual Tactile Manipulation with Sim-to-Real Deep Reinforcement Learning" </a></li>
+  <li><a href="content/ViTac2024_Paper_06.pdf">Hao Zhou, Masahiro Miyazaki and Kazuhiro Shimonomura. "NailTact: Vision-based Tactile Sensing in Both Fingerpad and Nail" </a></li>
+  <li><a href="content/ViTac2024_Paper_07.pdf">Chenghua Lu, Nathan F. Lepora. "DexiTac: A Reconfigurable Gripper with Tactile Sensing Ability" </a></li>
+  <li><a href="content/ViTac2024_Paper_08.pdf">Giuseppe Vitrani and Michae ̈l Wiertlewski. "Predicting object slippage in robotic grippers using human-inspired tactile processing" </a></li>
+  <li><a href="content/ViTac2024_Paper_09.pdf">Boyi Duan, Kun Qian, Yongqiang Zhao, Dongyuan Zhang, Shan Luo. "Feature-level Sim2Real Regression of Tactile Images for Robot Manipulation" </a></li>
+  <li><a href="content/ViTac2024_Paper_10.pdf">Haoran Li, Saekwang Nam, Zhenyu Lu, Chenguang Yang, Efi Psomopoulou, Nathan F. Lepora. "BioTacTip: A Soft Biomimetic Optical Tactile Sensor for Efficient 3D Contact Localization and 3D Force Estimation" </a></li>
+  <li><a href="content/ViTac2024_Paper_12.pdf">Bo Ai, Stephen Tian, Haochen Shi, Yixuan Wang, Cheston Tan, Yunzhu Li, Jiajun Wu. "RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing" </a></li>
+  <li><a href="content/ViTac2024_Paper_13.pdf">Max Yang, Chenghua Lu, Alex Church, Yijiong Lin, Chris Ford, Haoran Li, Efi Psomopoulou, David A.W. Barton, Nathan F. Lepora. "AnyRotate: Gravity-Invariant In-Hand Rotation with Sim-to-Real Touch" </a></li>
+  <li><a href="content/ViTac2024_Paper_14.pdf">Quan Khanh Luu, and Van Anh Ho. "Soft Robotic Link with Controllable Transparency for Vision-based Tactile and Proximity Sensing" </a></li>
+  <li><a href="content/ViTac2024_Paper_16.pdf">Takeshi Tomomizu, Quan Khanh Luu, Nhan Huu Nguyen, and Van Anh Ho. "Preliminary Design of Vision-Based Tactile Sensor with Nail and Soft Structures" </a></li>
+  <li><a href="content/ViTac2024_Paper_17.pdf">Zhuo Chen, Ni Ou, Jiaqi Jiang and Shan Luo. "Deep Domain Adaptation Regression for Force Calibration of Optical Tactile Sensors" </a></li>
+  <li><a href="content/ViTac2024_Paper_18.pdf">Yuni Fuchioka and Masashi Hamaya. "In-Grasp Torque Estimation for Visuotactile Sensors with Tactile Dipole Moments" </a></li>
+  <li><a href="content/ViTac2024_Paper_19.pdf">Xuyang Zhang, Jiaqi Jiang, and Shan Luo. "RoTip: A Finger-Shaped Tactile Sensor with Active Rotation" </a></li>
+  <li><a href="content/ViTac2024_Paper_20.pdf">Tunwu Li, Xiaolong Li, Zhenyu Lu and Chenguang Yang. "A Tactile Sensor Roller for In-Process Inspection of Composites" </a></li>
+  <li><a href="content/ViTac2024_Paper_21.pdf">Jieji Ren, Yueshi Dong, Yuru Gong, Ningbin Zhang, Jiang Zou and Guoying Gu. "Soft Camera-based Tactile Sensor for Compliant Grasping and Manipulation" </a></li>
+  <li><a href="content/ViTac2024_Paper_22.pdf">Abdallah Ayad, Adrian Ro ̈fer, Nick Heppert, Abhinav Valada. "Imagine2touch: Predictive Tactile Sensing for Robotic Manipulation using Efficient Low-Dimensional Signals" </a></li>
+  <li><a href="content/ViTac2024_Paper_23.pdf">Zhongyue Wu and Maciej Wozniak. "Enhanced AR: Integrating Haptic Feedback from Tactile Sensors for Immersive Teleportation" </a></li>
+  <li><a href="content/ViTac2024_Paper_24.pdf">Lowiek Van den Stockt, Remko Proesmans and Francis wyffels. "Automatic Calibration for an Open-source Magnetic Tactile Sensor" </a></li>
+  <li><a href="content/ViTac2024_Paper_25.pdf">Noah Becker, Erik Gattung, Kay Hansel, Tim Schneider, Yaonan Zhu, Yasuhisa Hasegawa, and Jan Peters. "Integrating Visuo-tactile Sensing with Haptic Feedback for Teleoperated Robot Manipulation" </a></li>
+  <li><a href="content/ViTac2024_Paper_26.pdf">Eric T. Chang, Peter Ballentine, Ioannis Kymissis and Matei Ciocarlie. "Development Towards a PVDF-Based Tactile Finger with Distributed Vibration Sensing" </a></li>
+  <li><a href="content/ViTac2024_Paper_27.pdf">Toru Lin, Yu Zhang, Qiyang Li, Haozhi Qi, Brent Yi, Sergey Levine, and Jitendra Malik. "Learning Visuotactile Skills with Two Multifingered Hands" </a></li>
+  <li><a href="content/ViTac2024_Paper_28.pdf">Daniel Palenicek, Theo Gruner, Tim Schneider, Alina Bo ̈hm, Janis Lenz, Inga Pfenning, Eric Kra ̈mer† and Jan Peters. "Learning Tactile Insertion in the Real World" </a></li>
+</ol>
 
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
