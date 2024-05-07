@@ -16,8 +16,6 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 **Time:** Full day, 17th May 2024 <br>
 <span style="color:blue"> **Location:** G411 (North area), PACIFICO Yokohama (Hybrid), Yokohama, Japan. </span> <br>
 
-![alt text](https://github.com/ShanLuo/ViTacWorkshops/images/vitac2024_flyer.jpg?raw=true)
-
 {% include figure.html img="vitac2024_flyer.jpg" alt="intro image here" caption="ICRA 2024 ViTac worshop" width="75%" %}
 
 **(Tentative) Program** <br>
