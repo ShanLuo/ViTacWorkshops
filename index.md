@@ -29,7 +29,7 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 
 **Session 2: Robot embodiment with vision and tactile sensing**		<br>
 **10:30-10:40**	Wenzhen Yuan & Shan Luo:	Session Intro <br>
-**10:40-11:00**	Perla Maiolino:	"Proxy-tactile technology and tactile data generation for robot self-awareness and control" <br>
+**10:40-11:00**	Huaping Liu:	"Large-scale tactile perception for interaction and manipulation" <br>
 **11:00-11:20**	Van Anh Ho:	"How to make robot “feel" safe?: Embodiment in robot safety with vision-based multimodal sensing" <br>
 **11:20-12:00**	Poster presenters	Lightning poster presentations (2mins each) <br>
 **12:00-14:00**	Lunch break, posters and demos	<br>
@@ -44,7 +44,7 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 
 **Session 4 The future of robot embodiment with visual-tactile perception**		<br>
 **16:00-16:10**	Kaspar Althoefer & Gordon Cheng:	Session intro <br>
-**16:10-16:30**	Huaping Liu:	"Large-scale tactile perception for interaction and manipulation" <br>
+**16:10-16:30**	Perla Maiolino:	"Proxy-tactile technology and tactile data generation for robot self-awareness and control" <br>
 **16:30-16:50**	Maria Bauza Villalonga:	"Visuo-tactile sensing for precise robotic manipulation with multiple embodiments" <br>
 **16:50-17:00**	Room rearrangment for the group discussion <br>
 **17:00-17:30**	All speakers:	Group discussion <br>
