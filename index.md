@@ -78,6 +78,7 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
   <li><a href="content/ViTac2024_Paper_26.pdf">Eric T. Chang, Peter Ballentine, Ioannis Kymissis and Matei Ciocarlie. "Development Towards a PVDF-Based Tactile Finger with Distributed Vibration Sensing" </a></li>
   <li><a href="content/ViTac2024_Paper_27.pdf">Toru Lin, Yu Zhang, Qiyang Li, Haozhi Qi, Brent Yi, Sergey Levine, and Jitendra Malik. "Learning Visuotactile Skills with Two Multifingered Hands" </a></li>
   <li><a href="content/ViTac2024_Paper_28.pdf">Daniel Palenicek, Theo Gruner, Tim Schneider, Alina Bo ̈hm, Janis Lenz, Inga Pfenning, Eric Kra ̈mer† and Jan Peters. "Learning Tactile Insertion in the Real World" </a></li>
+  <li><a href="content/ViTac2024_Paper_29.pdf">Guillaume Duret, Florence Zara, Jan Peters and Liming Chen. "Toward synthetic data generation for robotic tactile manipulations" </a></li>
 </ol>
 
 **Organisers:** <br>
