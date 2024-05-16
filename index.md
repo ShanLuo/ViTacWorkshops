@@ -18,6 +18,8 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 
 {% include figure.html img="vitac2024_flyer.jpg" alt="intro image here" caption="ICRA 2024 ViTac worshop" width="75%" %}
 
+<span style="color:red"> **Location:** The afternoon session has been updated, please check. </span> <br>
+
 **(Tentative) Program** <br>
 **09:00-09:10**	Organisers - Shan Luo:	Welcome & updates on TRO Special Collection <br>
 
@@ -32,23 +34,25 @@ For past ViTac workshops, please check [ViTac2023](https://shanluo.github.io/ViT
 **10:40-11:00**	Huaping Liu:	"Large-scale tactile perception for interaction and manipulation" <br>
 **11:00-11:20**	Van Anh Ho:	"How to make robot “feel" safe?: Embodiment in robot safety with vision-based multimodal sensing" <br>
 **11:20-12:00**	Poster presenters	Lightning poster presentations (2mins each) <br>
-**12:00-14:00**	Lunch break, posters and demos	<br>
+**12:00-13:30**	Lunch break, posters and demos	<br>
+
+<span style="color:blue"> The afternoon session will start at 13:30 (30 mins earlier than planned) due to the end of conference by 17:00. </span> <br>
 
 **Session 3: Challenges in visual-tactile perception**		<br>
-**14:00-14:10**	Rui Chen & Hao Su	Session: intro <br>
-**14:10-14:30**	Mark Cutkosky:	Invited talk <br>
-**14:30-14:50**	Roberto Calandra:	"Towards General In-hand Manipulation with Touch" <br>
-**14:50-15:10**	ManiSkill-ViTac Challenge	Conclusion of ManiSkill-ViTac Challenge, Award Ceremony <br>
-**15:10-15:30**	ManiSkill-ViTac Challenge	Invited talk from challenge winners <br>
-**15:30-16:00**	Coffee break, posters and demos	<br>
+**13:30-13:40**	Rui Chen & Hao Su	Session: intro <br>
+**13:40-14:00**	Mark Cutkosky:	Invited talk <br>
+**14:00-14:20**	Roberto Calandra:	"Towards General In-hand Manipulation with Touch" <br>
+**14:20-14:40**	ManiSkill-ViTac Challenge	Conclusion of ManiSkill-ViTac Challenge, Award Ceremony <br>
+**14:40-15:00**	ManiSkill-ViTac Challenge	Invited talk from challenge winners <br>
+**15:00-15:30**	Coffee break, posters and demos	<br>
 
 **Session 4 The future of robot embodiment with visual-tactile perception**		<br>
-**16:00-16:10**	Kaspar Althoefer & Gordon Cheng:	Session intro <br>
-**16:10-16:30**	Perla Maiolino:	"Proxy-tactile technology and tactile data generation for robot self-awareness and control" <br>
-**16:30-16:50**	Maria Bauza Villalonga:	"Visuo-tactile sensing for precise robotic manipulation with multiple embodiments" <br>
-**16:50-17:00**	Room rearrangment for the group discussion <br>
-**17:00-17:30**	All speakers:	Group discussion <br>
-**17:30**	Finish	<br>
+**15:30-15:40**	Kaspar Althoefer & Gordon Cheng:	Session intro <br>
+**15:40-16:00**	Perla Maiolino:	"Proxy-tactile technology and tactile data generation for robot self-awareness and control" <br>
+**16:00-16:20**	Maria Bauza Villalonga:	"Visuo-tactile sensing for precise robotic manipulation with multiple embodiments" <br>
+**16:20-16:30**	Room rearrangment for the group discussion <br>
+**16:30-17:00**	All speakers:	Group discussion <br>
+**17:00**	Finish	<br>
 
 **Accepted papers** <br>
 <ol>
