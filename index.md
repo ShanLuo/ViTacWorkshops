@@ -59,8 +59,6 @@ Posters and live demonstrations will be selected from a call for extended abstra
 
 # Tentative Schedule
 
-# Tentative Schedule
-
 | Time          | Speaker                                         | Title  |
 |--------------|-----------------------------------------------|-------------------------------------------------------------|
 | **09:00-09:10** | Organisers                                      | Welcome  |
