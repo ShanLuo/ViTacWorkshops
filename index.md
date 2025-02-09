@@ -62,7 +62,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
 | Time          | Speaker                                         | Title  |
 |--------------|-----------------------------------------------|-------------------------------------------------------------|
 | **09:00-09:10** | Organisers                                      | Welcome  |
-| **Session 1: Development of Touch Sensors - Hardware Intelligence** |  |  |
+| **Session 1: Development of Touch Sensors - Hardware Intelligence** | 
 | **09:10-09:30** | Lerrel Pinto                                    | Versatile Skin Sensing for Precise Manipulation  |
 | **09:30-09:50** | Yu She                                         | Learning Model Predictive Control for Tactile-reactive Grasping  |
 | **09:50-10:10** | Wenbo Ding                                     | Visuotactile Sensor with Beyond-Human Sensory Capabilities: A Multi-Spectral Method  |
@@ -72,13 +72,13 @@ Posters and live demonstrations will be selected from a call for extended abstra
 | **10:40-11:00** | Jitendra Malik                                | Touch Sensing for In-Hand Manipulation  |
 | **11:00-12:00** | Rich Walker, Heba Khamis, Zaki Hussein, Yuan Dai | Industry Forum  |
 | **12:00-14:00** | | Lunch break, posters, and demos  |
-| **Session 3: Vision and Tactile Sensing for Manipulation** |  |  |
+| **Session 3: Vision and Tactile Sensing for Manipulation** |  
 | **14:00-14:20** | Jan Peters                                   | Tactile Skill Learning  |
 | **14:20-14:40** | Daolin Ma                                    | Multi-Modal Contact Perception for Manipulation Intelligence with Vision-Based Tactile Sensor  |
 | **14:40-15:00** | Poster Presenters                            | Lightning Poster Presentations (2 mins each)  |
 | **15:00-15:30** | ManiSkill-ViTac Challenge                    | Invited Talk from Challenge Winners  |
 | **15:30-16:00** | | Coffee break, posters, and demos  |
-| **Session 4: The Future of Robot Embodiment with Visual-Tactile Perception** |  |  |
+| **Session 4: The Future of Robot Embodiment with Visual-Tactile Perception** |  
 | **16:00-16:20** | Katherine J. Kuchenbecker                    | Contact Sensing Complements Visual Perception of 3D Scenes  |
 | **16:20-17:00** | All Speakers                                 | Panel Discussion  |
 | **17:00**      | | Finish  |
