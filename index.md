@@ -67,7 +67,7 @@ Posters and live demonstrations will be selected from a call for extended abstra
 | **09:30-09:50** | Yu She                                         | Learning Model Predictive Control for Tactile-reactive Grasping  |
 | **09:50-10:10** | Wenbo Ding                                     | Visuotactile Sensor with Beyond-Human Sensory Capabilities: A Multi-Spectral Method  |
 | **10:00-10:30** | | Coffee break, posters, and demos  |
-| **Session 2: Robot Embodiment with Vision and Tactile Sensing** |  |  |
+| **Session 2: Robot Embodiment with Vision and Tactile Sensing** |  
 | **10:30-10:40** | Mark Yim                                      | T-RO Special Collection on Tactile Robotics  |
 | **10:40-11:00** | Jitendra Malik                                | Touch Sensing for In-Hand Manipulation  |
 | **11:00-12:00** | Rich Walker, Heba Khamis, Zaki Hussein, Yuan Dai | Industry Forum  |
