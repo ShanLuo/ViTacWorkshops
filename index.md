@@ -40,7 +40,7 @@ Zaki Hussein, CEO of TouchLab <br>
 Yuan Dai, CTO of Astribot <br>
 
 **Key dates:** <br>
-Posters and live demonstrations will be selected from a call for extended abstracts, reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. Submissions must be sent in pdf, following the IEEE conference style (two-columns), to: shan.luo@kcl.ac.uk, indicating [ICRA 2025 Workshop] in the email subject. <br>
+Posters and live demonstrations will be selected from a call for extended abstracts (2 pages + references), reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. Submissions must be sent in pdf, following the IEEE conference style (two-columns, same as the ICRA 2025 submissions), to: shan.luo@kcl.ac.uk, indicating [ICRA 2025 Workshop] in the email subject. <br>
 
 **Submission Deadline:** 15th March, 2025 <br>
 **Notification of acceptance:** 30th March, 2025 <br>
