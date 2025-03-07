@@ -83,7 +83,10 @@ Posters and live demonstrations will be selected from a call for extended abstra
 | **16:20-17:00** | All Speakers                                 | Panel Discussion  |
 | **17:00**      | Finish  | |  
 
+We thank the generous support from the following IEEE RAS Technical Committees:
 
+- Haptics
+- Cognitive Robotics
 
 <!-- 
 {% include toc.html %}
