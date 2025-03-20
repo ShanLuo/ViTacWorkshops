@@ -17,10 +17,10 @@ For past ViTac workshops, please check [ViTac2024](https://shanluo.github.io/ViT
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
 [Nathan Lepora](www.lepora.com), University of Bristol <br>
-[Wenzhen Yuan](https://cs.illinois.edu/about/people/adjunct-faculty/yuanwz), University of Illinois Urbana-Champaign <br>
-[Rui Chen](https://callmeray.github.io/homepage/Home.html), Tsinghua University <br>
-[Hao Su](https://cseweb.ucsd.edu/~haosu/ ), University of California San Diego <br>
-[Kaspar Althoefer](http://www.eecs.qmul.ac.uk/profiles/althoeferkaspar.html), Queen Mary University of London <br>
+[Wenzhen Yuan](https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz), University of Illinois Urbana-Champaign <br>
+[Rui Chen](https://callmeray.github.io/homepage/), Tsinghua University <br>
+[Hao Su](https://cseweb.ucsd.edu/~haosu/), University of California San Diego <br>
+[Kaspar Althoefer](https://www.sems.qmul.ac.uk/staff/k.althoefer), Queen Mary University of London <br>
 [Gordon Cheng](https://www.professoren.tum.de/en/cheng-gordon), Technische Universität München <br>
 
 **Invited speakers:** <br>
@@ -31,7 +31,7 @@ For past ViTac workshops, please check [ViTac2024](https://shanluo.github.io/ViT
 [Yu She](https://www.cerias.purdue.edu/site/people/faculty/view/3343), Purdue University <br>
 [Daolin Ma](https://mpi.sjtu.edu.cn/people.html), Shanghai Jiaotong University <br>
 [Wenbo Ding](https://ssr-group.net/), Tsinghua University <br>
-[Katherine J. Kuchenbecker](https://hi.is.mpg.de/), Max Planck Institute for Intelligent Systems <br>
+[Kyungseo Park](https://www.kspark.me/), Daegu Gyeongbuk Institute of Science and Technology <br>
 
 **Industry panel:** <br>
 Rich Walker, CEO of Shadow Robot Company <br>
