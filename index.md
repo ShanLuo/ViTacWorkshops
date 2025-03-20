@@ -16,7 +16,7 @@ For past ViTac workshops, please check [ViTac2024](https://shanluo.github.io/ViT
 
 **Organisers:** <br>
 [Shan Luo](https://shanluo.github.io/), King's College London <br>
-[Nathan Lepora](www.lepora.com), University of Bristol <br>
+[Nathan Lepora](lepora.com), University of Bristol <br>
 [Wenzhen Yuan](https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz), University of Illinois Urbana-Champaign <br>
 [Rui Chen](https://callmeray.github.io/homepage/), Tsinghua University <br>
 [Hao Su](https://cseweb.ucsd.edu/~haosu/), University of California San Diego <br>
