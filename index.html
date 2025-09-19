@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ICRA 2025 ViTac Workshop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>ICRA 2025 Workshop on “Towards Human Level Intelligence Vision and Tactile Sensing”</h1>
+
+  <p>This is the official website for "ViTac 2025: Towards Human Level Intelligence Vision and Tactile Sensing".</p>
+
+  <p><strong>Abstract:</strong> This is the 6th time for us to organise the ViTac workshop in the ICRA conferences, after ICRA 2019, 2020, 2021, 2023 and 2024 ViTac Workshops. It will also be timely for us to report conclusion of the Special Issue (now called Special Collection) we have organised on Tactile Robotics at the IEEE Transactions on Robotics. The recent trend in embodied intelligence, i.e., intelligence that requires and leverages a physical body of a robot, demands rich physical interactions with the surrounding environment, which cannot be achieved without perception of the environment with vision and tactile sensing. Recent years have seen rapid advancements in tactile sensor development, integration of information from visual and tactile modalities, leveraging vision and tactile sensing in agile grasping and manipulation, and simulations that involve both vision and tactile sensing. It will be timely to bring together the experts and young researchers in the field to discuss these important topics in robotics. This proposed full-day workshop will cover the recent advancements in the area of visuo-tactile sensing and perception, with the aim to empower robots with visual and tactile intelligence. It will further enhance active collaboration and address challenges for this important topic and applications.</em></p>
+
+  <p><strong>Date:</strong> Friday 23rd May, 2025 (9:00 a.m. – 5:00 p.m.)<br>
+     <strong>Location:</strong> Georgia World Congress Center, Atlanta, USA (<strong>Meeting Room: 302</strong>)</p>
+
+
+     <div class="spotlight-section">
+      <!-- <h2>Spotlight Videos</h2> -->
+      <div class="slider-wrapper">
+        <button class="slider-button left" onclick="moveSlide(-1)">&#8592;</button>
+        <div class="slider-container">
+          <div class="video-slider" id="videoSlider">
+            <!-- Four video per slide. Add hyperlink to each video, if available-->
+            <div class="video-slide">
+              <a href="https://ruihangao.github.io/TactileDreamFusion/" target="_blank">
+                <video src="assets/videos/compressed/TactileDreamFusion.mp4?v=1.0" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+              <a href="https://joehjhuang.github.io/normalflow/" target="_blank">
+                <video src="assets/videos/compressed/NormalFlow.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+              <a href="https://joehjhuang.github.io/gelslam/" target="_blank">
+                <video src="assets/videos/compressed/GelSLAM.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+              <!-- <a href="https://ut-austin-rpl.github.io/VIOLA/" target="_blank"> -->
+                <video src="assets/videos/compressed/RobotSkin.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              <!-- </a> -->
+            </div>
+
+            <div class="video-slide">
+              <a href="https://www.aminmirzaee.com/GelBelt/" target="_blank">
+                <video src="assets/videos/compressed/GelBelt.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+              <!-- <a href="https://ut-austin-rpl.github.io/VIOLA/" target="_blank"> -->
+                <video src="assets/videos/compressed/RobotSweater.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              <!-- </a> -->
+              <a href="https://rancho-zhao.github.io/poh2pih" target="_blank">
+              <video src="assets/videos/compressed/PoH2PiH.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+              <a href="https://sites.google.com/view/rotipbot" target="_blank">
+              <video src="assets/videos/compressed/RoTipBot.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+            </div>
+
+            <div class="video-slide">
+              <a href="https://georgewuzy.github.io/ConViTac-website/" target="_blank">
+                <video src="assets/videos/compressed/ConViTac.mp4" autoplay loop muted playsinline disablepictureinpicture></video>
+              </a>
+            </div>
+
+          </div>
+        </div>
+        <button class="slider-button right" onclick="moveSlide(1)">&#8594;</button>
+      </div>
+    </div>
+
+    <script>
+      let currentSlide = 0;
+      const slider = document.getElementById('videoSlider');
+      const totalSlides = slider.children.length;
+  
+      function moveSlide(direction) {
+        currentSlide = (currentSlide + direction + totalSlides) % totalSlides;
+        slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+      }
+    </script>
+  
+  
+
+  <p><strong>Past Workshops:</strong><br>
+    <a href="https://shanluo.github.io/ViTacWorkshops/vitac2024">ViTac2024</a>, 
+    <a href="https://shanluo.github.io/ViTacWorkshops/vitac2023">ViTac2023</a>, 
+    <a href="https://shanluo.github.io/ViTacWorkshops/vitac2021">ViTac2021</a>, 
+    <a href="https://shanluo.github.io/ViTacWorkshops/vitac2020">ViTac2020</a>, 
+    <a href="https://shanluo.github.io/ViTacWorkshops/vitac2019">ViTac2019</a>
+  </p>
+
+
+  <h2>Invited Speakers</h2>
+
+  <div class="speaker-grid">
+    <div class="speaker">
+      <img src="images/speakers/jitendra_malik.jpg" alt="Jitendra Malik">
+      <div>
+        <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a><br>University of California at Berkeley
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/jan_peters.jpeg" alt="Jan Peters">
+      <div>
+        <a href="https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters">Jan Peters</a><br>Technische Universität Darmstadt
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/mark_yim.jpg" alt="Mark Yim">
+      <div>
+        <a href="https://www.grasp.upenn.edu/people/mark-yim/">Mark Yim</a><br>University of Pennsylvania
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/lerrel_pinto.jpeg" alt="Lerrel Pinto">
+      <div>
+        <a href="https://www.lerrelpinto.com/">Lerrel Pinto</a><br>New York University
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/yu_she.jpeg" alt="Yu She">
+      <div>
+        <a href="https://www.cerias.purdue.edu/site/people/faculty/view/3343">Yu She</a><br>Purdue University
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/daolin_ma.jpg" alt="Daolin Ma">
+      <div>
+        <a href="https://mpi.sjtu.edu.cn/people.html">Daolin Ma</a><br>Shanghai Jiaotong University
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/wenbo_ding.jpg" alt="Wenbo Ding">
+      <div>
+        <a href="https://ssr-group.net/">Wenbo Ding</a><br>Tsinghua University
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/kyungseo_park.jpg" alt="Kyungseo Park">
+      <div>
+        <a href="https://www.kspark.me/">Kyungseo Park</a><br>Daegu Gyeongbuk Institute of Science and Technology
+      </div>
+    </div>
+  </div>
+
+  <h2>Industry Panel</h2>
+  <div class="panel-grid">
+    <!--
+    <div class="panel-member">
+      <img src="images/panel/rich_walker.jpeg" alt="Rich Walker">
+      <div>
+        Rich Walker<br>CEO of Shadow Robot Company
+      </div>
+    </div>
+    -->
+    <div class="panel-member">
+      <img src="images/panel/alex_schmitz.jpeg" alt="Alexander Schmitz">
+      <div>
+        Alexander Schmitz<br>CEO of XELA Robotics Co., Ltd.
+      </div>
+    </div>
+    <div class="panel-member">
+      <img src="images/panel/heba_khamis.jpg" alt="Heba Khamis">
+      <div>
+        Heba Khamis<br>CEO of Contactile
+      </div>
+    </div>
+    <div class="panel-member">
+      <img src="images/panel/zaki_hussein.jpeg" alt="Zaki Hussein">
+      <div>
+        Zaki Hussein<br>CEO of TouchLab
+      </div>
+    </div>
+    <div class="panel-member">
+      <img src="images/panel/astribot.jpeg" alt="Jianan Wang">
+      <div>
+        Jianan Wang<br>Vice President of Astribot
+      </div>
+    </div>
+  </div>
+
+
+  <h2>Key Dates</h2>
+  Posters and live demonstrations will be selected from a call for extended abstracts (2 pages + references), reviewed by the organisers. The best posters will be invited to talk at the workshop. All submissions will be reviewed using a single-blind review process. Accepted contributions will be presented during the workshop as posters. Submissions must be sent in pdf, following the IEEE conference style (two-columns, same as the ICRA 2025 submissions), to: shan.luo@kcl.ac.uk, indicating [ICRA 2025 Workshop] in the email subject. 
+  <ul>
+    <li><strong>Submission Deadline:</strong> 15th March, 2025</li>
+    <li><strong>Notification of acceptance:</strong> 30th March, 2025</li>
+    <li><strong>Camera-ready deadline:</strong> 15th April, 2025</li>
+    <li><strong>Workshop day:</strong> Friday May 23rd, 2025</li>
+  </ul>
+
+  <h2>Topics of Interest</h2>
+  <ul>
+    <li>Development of tactile sensors for robot tasks</li>
+    <li>Simulation of tactile sensors and Sim2Real learning</li>
+    <li>Visual-tactile sensing and perception</li>
+    <li>The control and design of robotic visuo-tactile systems for human-robot interaction</li>
+    <li>Interactive visuo-tactile perception in robot grasping and manipulation</li>
+    <li>Cognitive control of movement and sensory-motor representations with vision and touch</li>
+    <li>Bio-inspired approaches and cognitive architectures for the visuo-tactile perception</li>
+    <li>Computational methods for processing vision and touch data in robot learning</li>
+  </ul>
+
+  <h2>Tentative Schedule</h2>
+  <table>
+    <tr><th>Time</th><th>Speaker</th><th>Title</th></tr>
+    <tr><td>09:00-09:10</td><td>From Organisers </td><td>Welcome - Shan Luo </td></tr>
+    <tr><td colspan="3"><strong>Session 1: Development of Touch Sensors - Hardware Intelligence, Chair: Wenzhen Yuan </strong></td></tr>
+    <tr><td>09:10-09:20</td><td>Mark Yim</td><td>T-RO Special Collection on Tactile Robotics</td></tr>
+    <tr><td>09:20-09:40</td><td>Wenbo Ding</td><td>Visuotactile Sensor with Beyond-Human Sensory Capabilities: A Multi-Spectral Method</td></tr>
+    <tr><td>09:40-10:00</td><td>Yu She</td><td>Learning Model Predictive Control for Tactile-reactive Grasping</td></tr>
+    <tr><td>10:00-10:20</td><td>Lerrel Pinto</td><td>Versatile Skin Sensing for Precise Manipulation</td></tr>
+    <tr><td>10:20-10:40</td><td>Jitendra Malik</td><td>Touch Sensing for In-Hand Manipulation</td></tr>
+    <tr><td>10:40-11:00</td><td>Poster Presenters</td><td>Lightning Poster Presentations (2 mins each)</td></tr>
+    <tr><td>11:00-11:30</td><td colspan="2">Coffee break, posters, and demos</td></tr>
+    <tr><td colspan="3"><strong>Session 2: Robot Embodiment with Vision and Tactile Sensing, Chair: Gordon Cheng </strong></td></tr>
+    <tr><td>11:30-11:40</td><td>Alexander Schmitz</td><td>Industry Sharing (XELA Robotics Co.)</td></tr>
+    <tr><td>11:40-11:50</td><td>Heba Khamis</td><td>Industry Sharing (Contactile) </td></tr>
+    <tr><td>11:50-12:00</td><td>Zaki Hussein</td><td>Industry Sharing (TouchLab) </td></tr>
+    <tr><td>12:10-12:20</td><td>Jianan Wang</td><td>Industry Sharing (Astribot) </td></tr>
+    <tr><td>12:20-12:50</td><td colspan="2">Industry Panel Discussion</td></tr>
+    <tr><td>12:50-14:00</td><td colspan="2">Lunch break, posters, and demos</td></tr>
+    <tr><td colspan="3"><strong>Session 3: Vision and Tactile Sensing for Manipulation, Chair: Kaspar Althoefer</strong></td></tr>
+    <tr><td>14:00-14:20</td><td>Jan Peters</td><td>Tactile Skill Learning</td></tr>
+    <tr><td>14:20-14:40</td><td>Daolin Ma</td><td>Multi-Modal Contact Perception for Manipulation Intelligence with Vision-Based Tactile Sensor </td></tr>
+    <tr><td>14:40-15:00</td><td>Poster Presenters</td><td>Lightning Poster Presentations (2 mins each) </td></tr>
+    <tr><td>15:00-15:30</td><td>ManiSkill-ViTac Challenge</td><td> Updates and Invited Talk from Challenge Winners</td></tr>
+    <tr><td>15:30-16:00</td><td colspan="2">Coffee break, posters, and demos</td></tr>
+    <tr><td colspan="3"><strong>Session 4: Future of Robot Embodiment with Visual-Tactile Perception, Chair: Shan Luo</strong></td></tr>
+    <tr><td>16:00-16:20</td><td>Kyungseo Park</td><td>Whole-body Tactile Intelligence for Human-Robot Interaction</td></tr>
+    <tr><td>16:20-17:00</td><td>All Speakers</td><td>Panel Discussion</td></tr>
+    <tr><td>17:00</td><td colspan="2">Finish and Head for Social Dinner</td></tr>
+  </table>
+
+  <p><strong>We thank the generous support from the following IEEE RAS Technical Committees:</strong></p>
+  <ul>
+    <li>Haptics</li>
+    <li>Cognitive Robotics</li>
+  </ul>
+
+  <h2>Organisers</h2>
+  <div class="speaker-grid">
+    <div class="speaker">
+      <img src="images/organizers/shan_luo.jpeg" alt="Shan Luo">
+      <div>
+        <a href="https://shanluo.github.io/">Shan Luo</a><br>King's College London
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/organizers/nathan_lepora.jpg" alt="Nathan Lepora">
+      <div>
+        <a href="https://www.lepora.com">Nathan Lepora</a><br>University of Bristol
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/organizers/wenzhen_yuan.jpeg" alt="Wenzhen Yuan">
+      <div>
+        <a href="https://siebelschool.illinois.edu/about/people/all-faculty/yuanwz">Wenzhen Yuan</a><br>University of Illinois Urbana-Champaign
+      </div>
+    </div>
+
+    <div class="speaker">
+      <img src="images/organizers/rui_chen.jpeg" alt="Rui Chen">
+      <div>
+        <a href="https://callmeray.github.io/homepage/">Rui Chen</a><br>Tsinghua University
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/organizers/hao_su.jpg" alt="Hao Su">
+      <div>
+        <a href="https://cseweb.ucsd.edu/~haosu/">Hao Su</a><br>University of California San Diego
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/organizers/kasper_althoefer.jpg" alt="Kaspar Althoefer">
+      <div>
+        <a href="https://www.sems.qmul.ac.uk/staff/k.althoefer">Kaspar Althoefer</a><br>Queen Mary University of London
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/organizers/gordon_cheng.jpg" alt="Gordon Cheng">
+      <div>
+        <a href="https://www.professoren.tum.de/en/cheng-gordon">Gordon Cheng</a><br>Technische Universität München
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
