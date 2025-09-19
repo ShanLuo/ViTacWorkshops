@@ -10,3 +10,6 @@ vendor/
 
 # Ignore mac files 
 .DS_Store
+
+# Ignore vscode settings
+.vscode/
