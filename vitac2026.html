@@ -10,11 +10,12 @@
 
 <body>
 
-  <h1>ICRA 2026 Workshop on "7th ViTac Workshop: Visual-Tactile Embodied Intelligence - From High-Fidelity Simulation to Contact-Rich Manipulation"</h1>
+  <h1>ICRA 2026 Workshop on "7th ViTac Workshop: Learning to See and Feel: Vision–Tactile Synergy for Embodied AI"</h1>
   
-  <p><strong>Introduction</strong> Tactile robotics has emerged as a key frontier of embodied intelligence, equipping robots with the physical sense required to perceive and interact in unstructured environments. By integrating visual and tactile sensing, robots are empowered to perform tasks demanding dexterity, adaptability, and a deep understanding of physical interaction. Recently, the field has witnessed a paradigm shift driven by high-fidelity simulation. Advanced simulators capable of rendering realistic visual-tactile feedback are now bridging the sim-to-real gap, accelerating data generation and policy learning for robot grasping and contact-rich manipulation.</p>
+  <p><strong>Introduction</strong> Tactile robotics has emerged as a key frontier of embodied intelligence, equipping robots with the physical sense required to perceive and interact in unstructured environments. By integrating visual and tactile sensing, robots are empowered to perform tasks demanding dexterity, adaptability, and a deep understanding of physical interaction. Recently, the field has witnessed a paradigm shift driven by novel hardware design, high-fidelity simulation and vision-language-action models. 
+    The co-design of hardware and algorithm greatly enhances robotic tactile intelligence, while advanced simulators capable of rendering realistic visual-tactile feedback are now bridging the sim-to-real gap, greatly accelerating policy learning for robot grasping and contact-rich manipulation. The emergence of large-scale visual-tactile foundation models is questioning the scalability of tactile data generation and interpretation.</p>
   
-  <p>This workshop brings together a diverse group of leading experts and early-career researchers to discuss these important topics. It is also timely to ignite a discussion between model-based control and learning-based paradigms in the context of visual-tactile fusion and robot manipulation. By synthesizing these perspectives, we aim to cover recent advancements in the area, identify remaining scientific gaps, and foster new collaborations toward human-level visual-tactile intelligence. </p>
+  <p>This workshop brings together a diverse group of leading experts and early-career researchers to discuss these important topics. By synthesizing these perspectives, we aim to cover recent advancements in the area, identify remaining scientific gaps, and foster new collaborations toward human-level visual-tactile intelligence. </p>
 
   <!-- <p> The ViTac organizing team holds an extensive track record of hosting successful workshops on visual-tactile sensing and robot manipulation at top-tier venues, including ICRA (2019, 2020, 2021, 2023, 2024, 2025), IROS and UK manipulation workshop. Unique to this RSS 2026 edition, it is the first ViTac workshop primarily organized by a cohort of early-career researchers (final-year PhDs and Postdocs), mentored by a Senior Advisory Board. This new edition is designed to inject fresh perspectives into the visual-tactile community and foster the next generation of researchers in tactile robotics.</p> -->
   
@@ -106,12 +107,6 @@
 
   <div class="speaker-grid">
     <div class="speaker">
-      <img src="images/speakers/iretiayo_akinola.jpeg" alt="Ireti Akinola">
-      <div>
-        <a href="https://research.nvidia.com/person/iretiayo-akinola">Ireti Akinola</a><br>Senior Research Scientist, NVIDIA<br>
-      </div>
-    </div>
-    <div class="speaker">
       <img src="images/speakers/katherine_kuchenbecker.jpg" alt="Katherine J. Kuchenbecker">
       <div>
         <a href="https://is.mpg.de/hi/person/kjk">Katherine J. Kuchenbecker</a><br>Director, Max Planck Institute for Intelligent Systems<br>
@@ -133,6 +128,12 @@
       <img src="images/speakers/yanwu.jpg" alt="Yan Wu">
       <div>
         <a href="https://yan-wu.com/">Yan Wu</a><br>Principal Scientist, A*STAR Institute for Infocomm Research<br>
+      </div>
+    </div>
+    <div class="speaker">
+      <img src="images/speakers/iretiayo_akinola.jpeg" alt="Ireti Akinola">
+      <div>
+        <a href="https://research.nvidia.com/person/iretiayo-akinola">Ireti Akinola</a><br>Senior Research Scientist, NVIDIA<br>
       </div>
     </div>
     <div class="speaker">
@@ -167,7 +168,7 @@
     <tr><td>10:50 - 11:10 AM<br>(20 min)</td><td>Speaker 4</td></tr>
     <tr><td>11:10 - 11:30 AM<br>(20 min)</td><td>Speaker 5</td></tr>
     <tr><td>11:30 - 11:50 AM<br>(20 min)</td><td>Speaker 6</td></tr>
-    <tr><td>11:50 - 12:20 PM<br>(20 min)</td><td>Panel Discussion: Future of Visual-Tactile Intelligence</td></tr>
+    <tr><td>11:50 - 12:20 PM<br>(30 min)</td><td>Panel Discussion: Future of Visual-Tactile Intelligence</td></tr>
     <tr><td>12:20 - 12:30 PM<br>(10 min)</td><td>Best Paper Award and Closing Remarks</td></tr>
   </table>
   
@@ -176,28 +177,36 @@
     
   <h2>Discussion Topics</h2>
   
-  <h4>1. High-Fidelity Simulation</h4>
+  <h4>1. Co-design of Hardware and Algorithms</h4>
+  <ul>
+    <li><strong>Tactile Sensor Design</strong> How can we co-design hardware and algorithms to maximize the performance of tactile sensing systems?</li>
+    <li><strong>Bioinspired Approaches</strong> How can we get inspiration from biological systems to design more effective tactile sensors?</li>
+    <li><strong>Scalable Tactile Data Collection Systems</strong> How can we build scalable systems for collecting tactile data for large models?</li>
+  </ul>
+
+  <h4>2. High-Fidelity Simulation</h4>
   <ul>
     <li><strong>Tactile Interpretation:</strong> What is the bottleneck for simulation across diverse tactile sensors (vision-based and non-vision-based)? Should simulators render high-fidelity "raw" signals (e.g., RGB images, electrical signal) or interpreted signals (e.g., marker displacement, force vectors, depth maps) to maximize sim-to-real transfer efficiency?</li>
     <li><strong>Deformable Physics:</strong> What are the bottlenecks in modeling elastic materials, soft-body contacts, and complex friction phenomena (stick-slip, hysteresis) in real-time?</li>
     <li><strong>Neural Rendering:</strong> Can emerging techniques like Gaussian Splatting replace traditional graphical rendering to generate realistic digital twins for visual-tactile sensing?</li>
   </ul>
   
-  <h4>2. Sim-to-Real Transfer</h4>
+  <h4>3. Sim-to-Real Transfer</h4>
   <ul>
     <li><strong>The Reality Gap:</strong> What specific physical discrepancies (e.g., visual-tactile signal or physics) are the primary blockers preventing zero-shot transfer of tactile policies?</li>
     <li><strong>Cross-Sensor Transfer:</strong> How can we transfer learned skills between tactile sensors with different sensing principles (e.g., optical vs. magnetic) without retraining from scratch?</li>
     <li><strong>Benchmarking Standards:</strong> What defines a visual-tactile manipulation policy benchmark? What are the essential datasets, tasks, and evaluation metrics for a benchmark in visual-tactile sensing across simulation and real world?</li>
   </ul>
   
-  <h4>3. Multimodal Perception & Attention</h4>
+  <h4>4. Multimodal Perception & Representation Learning</h4>
   <ul>
-    <li><strong>Dynamic Reweighting:</strong> How should a robot dynamically attribute attention between vision and touch in challenging scenarios (e.g., heavy occlusion, poor lighting)?</li>
-    <li><strong>Unified Representations across Vision and Tactile:</strong> What is the latent representation for fusing high-dimensional visual data with sparse, local tactile contact information?</li>
+    <li><strong>Unified Representations across Vision and Touch:</strong> What is the unified representation across tactile sensors? How to fusing high-dimensional visual data with sparse, local tactile contact information?</li>
+    <li><strong>Dynamic Reweighting for visual-tactile fusion:</strong> How should a robot dynamically attribute attention between vision and touch in challenging scenarios (e.g., heavy occlusion, poor lighting)?</li>
   </ul>
   
-  <h4>4. Control, Learning & Dexterity</h4>
+  <h4>5. Control, Learning & Dexterity in the Era of Large Models</h4>
   <ul>
+    <li><strong>Vision-Tactile-Language-Action Model:</strong> How can we effectively integrate visual, tactile, and language information in a large model for robot manipulation?</li>
     <li><strong>Hybrid Architectures:</strong> How can we effectively synergize model-based control (for stability and safety) with learning-based paradigms (for adaptability in unstructured environments)?</li>
     <li><strong>Human-Like Reflexes:</strong> How do we design control frameworks that decouple high-frequency tactile reflexes (spinal level) from low-frequency visual planning (cortical level)?</li>
     <li><strong>Safety & Robustness:</strong> In end-to-end learning frameworks, how do we impose hard safety constraints (e.g., "do not crush") when tactile feedback is noisy or ambiguous?</li>
@@ -210,14 +219,15 @@
   <h3>Topics of Interest</h3>
 
   <ul>
-    <li>High-fidelity simulation and deformable physics modeling for visual-tactile sensing</li>
-    <li>Neural rendering and digital twins for visual-tactile environments</li>
-    <li>Sim-to-Real transfer strategies and bridging the reality gap in visual-tactile policies</li>
-    <li>Benchmarking standards, datasets, and evaluation metrics for visual-tactile learning</li>
-    <li>Multimodal perception, attention mechanisms, and unified representations of vision and touch</li>
+    <li>Development of tactile sensors and visual-tactile data collection systems for robot tasks</li>
+    <li>High-fidelity simulation and neural rendering for visual-tactile sensing</li>
+    <li>Sim-to-Real for visual-tactile policy learning</li>
+    <li>Benchmarking standards, datasets, and evaluation metrics for visual-tactile skill learning</li>
+    <li>Visual-tactile foundation models in robot grasping and manipulation</li>
+    <li>Visual-tactile representations learning across sensors and embodiments</li>
     <li>Hybrid visual-tactile control architectures combining model-based and learning-based paradigms</li>
-    <li>Safety, robustness, and reflex-based visual-tactile control in unstructured environments</li>
-    <li>Cross-sensor transfer and scalability of learned skills across visual-tactile embodiments</li>
+    <li>Cognitive control of movement and sensory-motor representations with vision and touch</li>
+    <li>The control and design of robotic visuo-tactile systems for human-robot interaction</li>
   </ul>
 
   <p>Posters and live demonstrations will be selected from a call for extended abstracts (2 pages + references), reviewed by the organisers. The best posters will be invited to give talks at the workshop. 
