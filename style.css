@@ -135,6 +135,18 @@ body {
   margin: auto;
 }
 
+.invited-speaker-grid {
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.invited-speaker-grid .speaker {
+  grid-column: span 2;
+}
+
+.invited-speaker-grid .speaker:nth-of-type(4) {
+  grid-column: 2 / span 2;
+}
+
 .speaker {
   text-align: center;
   line-height: 1.5;
@@ -149,6 +161,11 @@ body {
 @media (max-width: 900px) {
   .speaker-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .invited-speaker-grid .speaker,
+  .invited-speaker-grid .speaker:nth-of-type(4) {
+    grid-column: auto;
   }
 }
 
